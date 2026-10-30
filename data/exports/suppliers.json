@@ -1,0 +1,1002 @@
+[
+  {
+    "supplier_id":"SUP-000001",
+    "name":"Supplier Global 1 Corp",
+    "category":"Logistics Services",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000002",
+    "name":"Supplier Global 2 Corp",
+    "category":"Raw Materials",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000003",
+    "name":"Supplier Global 3 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000004",
+    "name":"Supplier Global 4 Corp",
+    "category":"Logistics Services",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000005",
+    "name":"Supplier Global 5 Corp",
+    "category":"Mechanical Components",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000006",
+    "name":"Supplier Global 6 Corp",
+    "category":"Packaging",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000007",
+    "name":"Supplier Global 7 Corp",
+    "category":"Raw Materials",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000008",
+    "name":"Supplier Global 8 Corp",
+    "category":"Electronics",
+    "country":"India",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000009",
+    "name":"Supplier Global 9 Corp",
+    "category":"Packaging",
+    "country":"USA",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000010",
+    "name":"Supplier Global 10 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000011",
+    "name":"Supplier Global 11 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000012",
+    "name":"Supplier Global 12 Corp",
+    "category":"Mechanical Components",
+    "country":"USA",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000013",
+    "name":"Supplier Global 13 Corp",
+    "category":"Electronics",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000014",
+    "name":"Supplier Global 14 Corp",
+    "category":"Logistics Services",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000015",
+    "name":"Supplier Global 15 Corp",
+    "category":"Logistics Services",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Insufficient Data",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000016",
+    "name":"Supplier Global 16 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000017",
+    "name":"Supplier Global 17 Corp",
+    "category":"Electronics",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000018",
+    "name":"Supplier Global 18 Corp",
+    "category":"Mechanical Components",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Disruption Affected",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000019",
+    "name":"Supplier Global 19 Corp",
+    "category":"Electronics",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000020",
+    "name":"Supplier Global 20 Corp",
+    "category":"Raw Materials",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000021",
+    "name":"Supplier Global 21 Corp",
+    "category":"Raw Materials",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000022",
+    "name":"Supplier Global 22 Corp",
+    "category":"Packaging",
+    "country":"South Korea",
+    "status":"Suspended",
+    "risk_level":"High",
+    "profile_type":"Compliance Violations",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000023",
+    "name":"Supplier Global 23 Corp",
+    "category":"Mechanical Components",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000024",
+    "name":"Supplier Global 24 Corp",
+    "category":"Raw Materials",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000025",
+    "name":"Supplier Global 25 Corp",
+    "category":"Raw Materials",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000026",
+    "name":"Supplier Global 26 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000027",
+    "name":"Supplier Global 27 Corp",
+    "category":"Mechanical Components",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000028",
+    "name":"Supplier Global 28 Corp",
+    "category":"Mechanical Components",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000029",
+    "name":"Supplier Global 29 Corp",
+    "category":"Packaging",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000030",
+    "name":"Supplier Global 30 Corp",
+    "category":"Packaging",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000031",
+    "name":"Supplier Global 31 Corp",
+    "category":"Raw Materials",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000032",
+    "name":"Supplier Global 32 Corp",
+    "category":"Logistics Services",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000033",
+    "name":"Supplier Global 33 Corp",
+    "category":"Packaging",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000034",
+    "name":"Supplier Global 34 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000035",
+    "name":"Supplier Global 35 Corp",
+    "category":"Mechanical Components",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000036",
+    "name":"Supplier Global 36 Corp",
+    "category":"Mechanical Components",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000037",
+    "name":"Supplier Global 37 Corp",
+    "category":"Mechanical Components",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000038",
+    "name":"Supplier Global 38 Corp",
+    "category":"Raw Materials",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000039",
+    "name":"Supplier Global 39 Corp",
+    "category":"Mechanical Components",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000040",
+    "name":"Supplier Global 40 Corp",
+    "category":"Raw Materials",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000041",
+    "name":"Supplier Global 41 Corp",
+    "category":"Electronics",
+    "country":"USA",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000042",
+    "name":"Supplier Global 42 Corp",
+    "category":"Mechanical Components",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Disruption Affected",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000043",
+    "name":"Supplier Global 43 Corp",
+    "category":"Packaging",
+    "country":"USA",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000044",
+    "name":"Supplier Global 44 Corp",
+    "category":"Packaging",
+    "country":"Japan",
+    "status":"Suspended",
+    "risk_level":"High",
+    "profile_type":"Compliance Violations",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000045",
+    "name":"Supplier Global 45 Corp",
+    "category":"Mechanical Components",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000046",
+    "name":"Supplier Global 46 Corp",
+    "category":"Logistics Services",
+    "country":"USA",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000047",
+    "name":"Supplier Global 47 Corp",
+    "category":"Electronics",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000048",
+    "name":"Supplier Global 48 Corp",
+    "category":"Logistics Services",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000049",
+    "name":"Supplier Global 49 Corp",
+    "category":"Logistics Services",
+    "country":"South Korea",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000050",
+    "name":"Supplier Global 50 Corp",
+    "category":"Packaging",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000051",
+    "name":"Supplier Global 51 Corp",
+    "category":"Packaging",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000052",
+    "name":"Supplier Global 52 Corp",
+    "category":"Raw Materials",
+    "country":"South Korea",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000053",
+    "name":"Supplier Global 53 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000054",
+    "name":"Supplier Global 54 Corp",
+    "category":"Packaging",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000055",
+    "name":"Supplier Global 55 Corp",
+    "category":"Logistics Services",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000056",
+    "name":"Supplier Global 56 Corp",
+    "category":"Logistics Services",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000057",
+    "name":"Supplier Global 57 Corp",
+    "category":"Logistics Services",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000058",
+    "name":"Supplier Global 58 Corp",
+    "category":"Raw Materials",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Insufficient Data",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000059",
+    "name":"Supplier Global 59 Corp",
+    "category":"Electronics",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000060",
+    "name":"Supplier Global 60 Corp",
+    "category":"Electronics",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Insufficient Data",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000061",
+    "name":"Supplier Global 61 Corp",
+    "category":"Electronics",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000062",
+    "name":"Supplier Global 62 Corp",
+    "category":"Mechanical Components",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000063",
+    "name":"Supplier Global 63 Corp",
+    "category":"Packaging",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Disruption Affected",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000064",
+    "name":"Supplier Global 64 Corp",
+    "category":"Raw Materials",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000065",
+    "name":"Supplier Global 65 Corp",
+    "category":"Packaging",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Insufficient Data",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000066",
+    "name":"Supplier Global 66 Corp",
+    "category":"Packaging",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000067",
+    "name":"Supplier Global 67 Corp",
+    "category":"Logistics Services",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000068",
+    "name":"Supplier Global 68 Corp",
+    "category":"Packaging",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000069",
+    "name":"Supplier Global 69 Corp",
+    "category":"Packaging",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000070",
+    "name":"Supplier Global 70 Corp",
+    "category":"Packaging",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000071",
+    "name":"Supplier Global 71 Corp",
+    "category":"Logistics Services",
+    "country":"USA",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000072",
+    "name":"Supplier Global 72 Corp",
+    "category":"Logistics Services",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000073",
+    "name":"Supplier Global 73 Corp",
+    "category":"Packaging",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000074",
+    "name":"Supplier Global 74 Corp",
+    "category":"Raw Materials",
+    "country":"South Korea",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000075",
+    "name":"Supplier Global 75 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000076",
+    "name":"Supplier Global 76 Corp",
+    "category":"Electronics",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000077",
+    "name":"Supplier Global 77 Corp",
+    "category":"Mechanical Components",
+    "country":"Taiwan",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000078",
+    "name":"Supplier Global 78 Corp",
+    "category":"Mechanical Components",
+    "country":"India",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000079",
+    "name":"Supplier Global 79 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000080",
+    "name":"Supplier Global 80 Corp",
+    "category":"Logistics Services",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000081",
+    "name":"Supplier Global 81 Corp",
+    "category":"Electronics",
+    "country":"India",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000082",
+    "name":"Supplier Global 82 Corp",
+    "category":"Logistics Services",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000083",
+    "name":"Supplier Global 83 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Disruption Affected",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000084",
+    "name":"Supplier Global 84 Corp",
+    "category":"Packaging",
+    "country":"USA",
+    "status":"Probation",
+    "risk_level":"High",
+    "profile_type":"Poor Performing",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000085",
+    "name":"Supplier Global 85 Corp",
+    "category":"Raw Materials",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000086",
+    "name":"Supplier Global 86 Corp",
+    "category":"Packaging",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000087",
+    "name":"Supplier Global 87 Corp",
+    "category":"Electronics",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000088",
+    "name":"Supplier Global 88 Corp",
+    "category":"Mechanical Components",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000089",
+    "name":"Supplier Global 89 Corp",
+    "category":"Packaging",
+    "country":"Mexico",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000090",
+    "name":"Supplier Global 90 Corp",
+    "category":"Packaging",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000091",
+    "name":"Supplier Global 91 Corp",
+    "category":"Packaging",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000092",
+    "name":"Supplier Global 92 Corp",
+    "category":"Electronics",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000093",
+    "name":"Supplier Global 93 Corp",
+    "category":"Mechanical Components",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000094",
+    "name":"Supplier Global 94 Corp",
+    "category":"Logistics Services",
+    "country":"USA",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Recurring Quality Issues",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000095",
+    "name":"Supplier Global 95 Corp",
+    "category":"Logistics Services",
+    "country":"Mexico",
+    "status":"Suspended",
+    "risk_level":"High",
+    "profile_type":"Compliance Violations",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000096",
+    "name":"Supplier Global 96 Corp",
+    "category":"Electronics",
+    "country":"Vietnam",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Average",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000097",
+    "name":"Supplier Global 97 Corp",
+    "category":"Mechanical Components",
+    "country":"Taiwan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Highly Reliable",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000098",
+    "name":"Supplier Global 98 Corp",
+    "category":"Logistics Services",
+    "country":"Germany",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000099",
+    "name":"Supplier Global 99 Corp",
+    "category":"Logistics Services",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Medium",
+    "profile_type":"Deteriorating Delivery",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "supplier_id":"SUP-000100",
+    "name":"Supplier Global 100 Corp",
+    "category":"Packaging",
+    "country":"Japan",
+    "status":"Active",
+    "risk_level":"Low",
+    "profile_type":"Invoice Discrepancies",
+    "created_at":"2025-01-01 00:00:00"
+  }
+]

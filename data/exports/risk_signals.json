@@ -1,0 +1,452 @@
+[
+  {
+    "signal_id":"RSK-SUP-000008-2026-01",
+    "supplier_id":"SUP-000008",
+    "event_date":"2026-03-17",
+    "source":"SupplyChainMonitor API",
+    "severity":6.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-17 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000008-2026-02",
+    "supplier_id":"SUP-000008",
+    "event_date":"2026-08-18",
+    "source":"SupplyChainMonitor API",
+    "severity":7.1,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-08-18 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000008-2026-03",
+    "supplier_id":"SUP-000008",
+    "event_date":"2026-04-04",
+    "source":"SupplyChainMonitor API",
+    "severity":6.8,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-04-04 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000018-2026-04",
+    "supplier_id":"SUP-000018",
+    "event_date":"2026-03-10",
+    "source":"SupplyChainMonitor API",
+    "severity":8.7,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-03-10 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000018-2026-05",
+    "supplier_id":"SUP-000018",
+    "event_date":"2026-02-08",
+    "source":"SupplyChainMonitor API",
+    "severity":8.2,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-02-08 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000022-2026-06",
+    "supplier_id":"SUP-000022",
+    "event_date":"2026-08-24",
+    "source":"SupplyChainMonitor API",
+    "severity":7.9,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-08-24 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000022-2026-07",
+    "supplier_id":"SUP-000022",
+    "event_date":"2026-01-25",
+    "source":"SupplyChainMonitor API",
+    "severity":7.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-01-25 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000022-2026-08",
+    "supplier_id":"SUP-000022",
+    "event_date":"2026-03-03",
+    "source":"SupplyChainMonitor API",
+    "severity":6.6,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-03 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000041-2026-09",
+    "supplier_id":"SUP-000041",
+    "event_date":"2026-03-14",
+    "source":"SupplyChainMonitor API",
+    "severity":7.5,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-03-14 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000041-2026-10",
+    "supplier_id":"SUP-000041",
+    "event_date":"2026-08-03",
+    "source":"SupplyChainMonitor API",
+    "severity":8.9,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-08-03 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000041-2026-11",
+    "supplier_id":"SUP-000041",
+    "event_date":"2026-02-15",
+    "source":"SupplyChainMonitor API",
+    "severity":8.5,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-02-15 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000041-2026-12",
+    "supplier_id":"SUP-000041",
+    "event_date":"2026-01-04",
+    "source":"SupplyChainMonitor API",
+    "severity":8.1,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-01-04 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000042-2026-13",
+    "supplier_id":"SUP-000042",
+    "event_date":"2026-04-27",
+    "source":"SupplyChainMonitor API",
+    "severity":8.8,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-04-27 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000042-2026-14",
+    "supplier_id":"SUP-000042",
+    "event_date":"2026-02-13",
+    "source":"SupplyChainMonitor API",
+    "severity":7.6,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-02-13 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000044-2026-15",
+    "supplier_id":"SUP-000044",
+    "event_date":"2026-02-05",
+    "source":"SupplyChainMonitor API",
+    "severity":6.3,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-02-05 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000044-2026-16",
+    "supplier_id":"SUP-000044",
+    "event_date":"2026-06-18",
+    "source":"SupplyChainMonitor API",
+    "severity":7.0,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-06-18 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000046-2026-17",
+    "supplier_id":"SUP-000046",
+    "event_date":"2026-03-23",
+    "source":"SupplyChainMonitor API",
+    "severity":8.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-03-23 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000046-2026-18",
+    "supplier_id":"SUP-000046",
+    "event_date":"2026-01-26",
+    "source":"SupplyChainMonitor API",
+    "severity":8.0,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-01-26 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000046-2026-19",
+    "supplier_id":"SUP-000046",
+    "event_date":"2026-01-22",
+    "source":"SupplyChainMonitor API",
+    "severity":6.1,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-01-22 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000046-2026-20",
+    "supplier_id":"SUP-000046",
+    "event_date":"2026-05-12",
+    "source":"SupplyChainMonitor API",
+    "severity":8.5,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-05-12 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000049-2026-21",
+    "supplier_id":"SUP-000049",
+    "event_date":"2026-04-06",
+    "source":"SupplyChainMonitor API",
+    "severity":6.8,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-04-06 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000049-2026-22",
+    "supplier_id":"SUP-000049",
+    "event_date":"2026-03-09",
+    "source":"SupplyChainMonitor API",
+    "severity":6.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-09 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000052-2026-23",
+    "supplier_id":"SUP-000052",
+    "event_date":"2026-04-22",
+    "source":"SupplyChainMonitor API",
+    "severity":7.4,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-04-22 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000052-2026-24",
+    "supplier_id":"SUP-000052",
+    "event_date":"2026-08-11",
+    "source":"SupplyChainMonitor API",
+    "severity":9.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-08-11 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000063-2026-25",
+    "supplier_id":"SUP-000063",
+    "event_date":"2026-03-19",
+    "source":"SupplyChainMonitor API",
+    "severity":6.2,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-19 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000063-2026-26",
+    "supplier_id":"SUP-000063",
+    "event_date":"2026-03-09",
+    "source":"SupplyChainMonitor API",
+    "severity":7.6,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-03-09 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000063-2026-27",
+    "supplier_id":"SUP-000063",
+    "event_date":"2026-01-19",
+    "source":"SupplyChainMonitor API",
+    "severity":7.7,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-01-19 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000075-2026-28",
+    "supplier_id":"SUP-000075",
+    "event_date":"2026-07-25",
+    "source":"SupplyChainMonitor API",
+    "severity":9.4,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-07-25 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000075-2026-29",
+    "supplier_id":"SUP-000075",
+    "event_date":"2026-03-07",
+    "source":"SupplyChainMonitor API",
+    "severity":8.9,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-03-07 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000075-2026-30",
+    "supplier_id":"SUP-000075",
+    "event_date":"2026-07-05",
+    "source":"SupplyChainMonitor API",
+    "severity":8.9,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-07-05 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000075-2026-31",
+    "supplier_id":"SUP-000075",
+    "event_date":"2026-05-06",
+    "source":"SupplyChainMonitor API",
+    "severity":6.2,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-05-06 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000077-2026-32",
+    "supplier_id":"SUP-000077",
+    "event_date":"2026-07-03",
+    "source":"SupplyChainMonitor API",
+    "severity":8.9,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-07-03 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000077-2026-33",
+    "supplier_id":"SUP-000077",
+    "event_date":"2026-02-12",
+    "source":"SupplyChainMonitor API",
+    "severity":8.6,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-02-12 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000078-2026-34",
+    "supplier_id":"SUP-000078",
+    "event_date":"2026-02-09",
+    "source":"SupplyChainMonitor API",
+    "severity":8.1,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-02-09 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000078-2026-35",
+    "supplier_id":"SUP-000078",
+    "event_date":"2026-03-15",
+    "source":"SupplyChainMonitor API",
+    "severity":7.0,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-15 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000078-2026-36",
+    "supplier_id":"SUP-000078",
+    "event_date":"2026-05-04",
+    "source":"SupplyChainMonitor API",
+    "severity":8.8,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-05-04 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000083-2026-37",
+    "supplier_id":"SUP-000083",
+    "event_date":"2026-03-08",
+    "source":"SupplyChainMonitor API",
+    "severity":9.4,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-03-08 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000083-2026-38",
+    "supplier_id":"SUP-000083",
+    "event_date":"2026-06-05",
+    "source":"SupplyChainMonitor API",
+    "severity":8.4,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-06-05 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000083-2026-39",
+    "supplier_id":"SUP-000083",
+    "event_date":"2026-01-06",
+    "source":"SupplyChainMonitor API",
+    "severity":8.3,
+    "description":"Port congestion and manufacturing downtime",
+    "recovery_status":"Active",
+    "created_at":"2026-01-06 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000084-2026-40",
+    "supplier_id":"SUP-000084",
+    "event_date":"2026-03-09",
+    "source":"SupplyChainMonitor API",
+    "severity":7.0,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-03-09 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000084-2026-41",
+    "supplier_id":"SUP-000084",
+    "event_date":"2026-08-18",
+    "source":"SupplyChainMonitor API",
+    "severity":8.5,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-08-18 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000095-2026-42",
+    "supplier_id":"SUP-000095",
+    "event_date":"2026-02-25",
+    "source":"SupplyChainMonitor API",
+    "severity":8.4,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Active",
+    "created_at":"2026-02-25 00:00:00"
+  },
+  {
+    "signal_id":"RSK-SUP-000095-2026-43",
+    "supplier_id":"SUP-000095",
+    "event_date":"2026-04-20",
+    "source":"SupplyChainMonitor API",
+    "severity":6.7,
+    "description":"Regulatory compliance citation",
+    "recovery_status":"Resolved",
+    "created_at":"2026-04-20 00:00:00"
+  },
+  {
+    "signal_id":"RSK-FUTURE-SIGNAL-01",
+    "supplier_id":"SUP-000001",
+    "event_date":"2027-06-15",
+    "source":"Forecast Engine",
+    "severity":8.5,
+    "description":"Predicted labor disruption in 2027",
+    "recovery_status":"Active",
+    "created_at":"2027-06-15 00:00:00"
+  },
+  {
+    "signal_id":"RSK-ANOM-MISSING-01",
+    "supplier_id":"SUP-000002",
+    "event_date":"2026-03-01",
+    "source":null,
+    "severity":7.0,
+    "description":"Unattributed risk signal",
+    "recovery_status":"Active",
+    "created_at":null
+  }
+]

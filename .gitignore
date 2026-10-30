@@ -1,0 +1,31 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Database files
+database/*.db
+database/*.sqlite3
+*.db
+*.sqlite3
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE config
+.vscode/
+.idea/
+
+# Environment files
+.env

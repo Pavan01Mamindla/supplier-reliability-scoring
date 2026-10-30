@@ -1,0 +1,207 @@
+site_id,supplier_id,site_name,city,country,capacity_units_per_month,is_active,created_at
+SITE-SUP-000001-01,SUP-000001,Binh Duong Manufacturing Facility 1,Binh Duong,Vietnam,9273,1,2025-01-01 00:00:00
+SITE-SUP-000001-02,SUP-000001,Hai Phong Manufacturing Facility 2,Hai Phong,Vietnam,3795,1,2025-01-01 00:00:00
+SITE-SUP-000001-03,SUP-000100,Binh Duong Manufacturing Facility 3,Binh Duong,Vietnam,3296,1,2025-01-01 00:00:00
+SITE-SUP-000002-01,SUP-000002,Bengaluru Manufacturing Facility 1,Bengaluru,India,9718,1,2025-01-01 00:00:00
+SITE-SUP-000002-02,SUP-000002,Bengaluru Manufacturing Facility 2,Bengaluru,India,3126,1,2025-01-01 00:00:00
+SITE-SUP-000003-01,SUP-000003,Tijuana Manufacturing Facility 1,Tijuana,Mexico,7832,1,2025-01-01 00:00:00
+SITE-SUP-000003-02,SUP-000003,Monterrey Manufacturing Facility 2,Monterrey,Mexico,2934,1,2025-01-01 00:00:00
+SITE-SUP-000004-01,SUP-000004,Suwon Manufacturing Facility 1,Suwon,South Korea,9646,1,2025-01-01 00:00:00
+SITE-SUP-000005-01,SUP-000005,Nagoya Manufacturing Facility 1,Nagoya,Japan,6377,1,2025-01-01 00:00:00
+SITE-SUP-000005-02,SUP-000005,Nagoya Manufacturing Facility 2,Nagoya,Japan,7236,1,2025-01-01 00:00:00
+SITE-SUP-000006-01,SUP-000006,Tainan Manufacturing Facility 1,Tainan,Taiwan,7843,1,2025-01-01 00:00:00
+SITE-SUP-000006-02,SUP-000006,Hsinchu Manufacturing Facility 2,Hsinchu,Taiwan,4029,1,2025-01-01 00:00:00
+SITE-SUP-000006-03,SUP-000006,Hsinchu Manufacturing Facility 3,Hsinchu,Taiwan,9983,1,2025-01-01 00:00:00
+SITE-SUP-000007-01,SUP-000007,Tainan Manufacturing Facility 1,Tainan,Taiwan,8214,1,2025-01-01 00:00:00
+SITE-SUP-000007-02,SUP-000007,Taichung Manufacturing Facility 2,Taichung,Taiwan,5649,1,2025-01-01 00:00:00
+SITE-SUP-000007-03,SUP-000007,Hsinchu Manufacturing Facility 3,Hsinchu,Taiwan,2734,1,2025-01-01 00:00:00
+SITE-SUP-000008-01,SUP-000008,Chennai Manufacturing Facility 1,Chennai,India,5493,1,2025-01-01 00:00:00
+SITE-SUP-000008-02,SUP-000008,Bengaluru Manufacturing Facility 2,Bengaluru,India,4045,1,2025-01-01 00:00:00
+SITE-SUP-000009-01,SUP-000009,Chicago Manufacturing Facility 1,Chicago,USA,9418,1,2025-01-01 00:00:00
+SITE-SUP-000009-02,SUP-000009,Austin Manufacturing Facility 2,Austin,USA,5826,1,2025-01-01 00:00:00
+SITE-SUP-000009-03,SUP-000009,San Jose Manufacturing Facility 3,San Jose,USA,9312,1,2025-01-01 00:00:00
+SITE-SUP-000010-01,SUP-000010,Hai Phong Manufacturing Facility 1,Hai Phong,Vietnam,4097,1,2025-01-01 00:00:00
+SITE-SUP-000011-01,SUP-000011,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,8273,1,2025-01-01 00:00:00
+SITE-SUP-000011-02,SUP-000011,Guadalajara Manufacturing Facility 2,Guadalajara,Mexico,7313,1,2025-01-01 00:00:00
+SITE-SUP-000011-03,SUP-000011,Tijuana Manufacturing Facility 3,Tijuana,Mexico,7772,1,2025-01-01 00:00:00
+SITE-SUP-000012-01,SUP-000012,San Jose Manufacturing Facility 1,San Jose,USA,7947,1,2025-01-01 00:00:00
+SITE-SUP-000012-02,SUP-000012,San Jose Manufacturing Facility 2,San Jose,USA,3328,1,2025-01-01 00:00:00
+SITE-SUP-000013-01,SUP-000013,Suwon Manufacturing Facility 1,Suwon,South Korea,8602,1,2025-01-01 00:00:00
+SITE-SUP-000014-01,SUP-000014,Hamburg Manufacturing Facility 1,Hamburg,Germany,6211,1,2025-01-01 00:00:00
+SITE-SUP-000015-01,SUP-000015,Chennai Manufacturing Facility 1,Chennai,India,2047,1,2025-01-01 00:00:00
+SITE-SUP-000015-02,SUP-000015,Pune Manufacturing Facility 2,Pune,India,5906,1,2025-01-01 00:00:00
+SITE-SUP-000015-03,SUP-000015,Chennai Manufacturing Facility 3,Chennai,India,6511,1,2025-01-01 00:00:00
+SITE-SUP-000016-01,SUP-000016,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,8313,1,2025-01-01 00:00:00
+SITE-SUP-000016-02,SUP-000016,Guadalajara Manufacturing Facility 2,Guadalajara,Mexico,7164,1,2025-01-01 00:00:00
+SITE-SUP-000016-03,SUP-000016,Guadalajara Manufacturing Facility 3,Guadalajara,Mexico,2070,1,2025-01-01 00:00:00
+SITE-SUP-000017-01,SUP-000017,Bengaluru Manufacturing Facility 1,Bengaluru,India,6716,1,2025-01-01 00:00:00
+SITE-SUP-000017-02,SUP-000017,Pune Manufacturing Facility 2,Pune,India,5043,1,2025-01-01 00:00:00
+SITE-SUP-000018-01,SUP-000018,Hai Phong Manufacturing Facility 1,Hai Phong,Vietnam,9794,1,2025-01-01 00:00:00
+SITE-SUP-000018-02,SUP-000018,Da Nang Manufacturing Facility 2,Da Nang,Vietnam,5651,1,2025-01-01 00:00:00
+SITE-SUP-000018-03,SUP-000018,Da Nang Manufacturing Facility 3,Da Nang,Vietnam,8203,1,2025-01-01 00:00:00
+SITE-SUP-000019-01,SUP-000019,Busan Manufacturing Facility 1,Busan,South Korea,9104,1,2025-01-01 00:00:00
+SITE-SUP-000019-02,SUP-000019,Busan Manufacturing Facility 2,Busan,South Korea,5723,1,2025-01-01 00:00:00
+SITE-SUP-000020-01,SUP-000020,Binh Duong Manufacturing Facility 1,Binh Duong,Vietnam,9906,1,2025-01-01 00:00:00
+SITE-SUP-000020-02,SUP-000020,Hai Phong Manufacturing Facility 2,Hai Phong,Vietnam,7977,1,2025-01-01 00:00:00
+SITE-SUP-000021-01,SUP-000021,Hai Phong Manufacturing Facility 1,Hai Phong,Vietnam,5431,1,2025-01-01 00:00:00
+SITE-SUP-000022-01,SUP-000022,Incheon Manufacturing Facility 1,Incheon,South Korea,5030,1,2025-01-01 00:00:00
+SITE-SUP-000022-02,SUP-000022,Incheon Manufacturing Facility 2,Incheon,South Korea,3847,1,2025-01-01 00:00:00
+SITE-SUP-000023-01,SUP-000023,Tijuana Manufacturing Facility 1,Tijuana,Mexico,4380,1,2025-01-01 00:00:00
+SITE-SUP-000023-02,SUP-000023,Monterrey Manufacturing Facility 2,Monterrey,Mexico,4075,1,2025-01-01 00:00:00
+SITE-SUP-000023-03,SUP-000023,Guadalajara Manufacturing Facility 3,Guadalajara,Mexico,2300,1,2025-01-01 00:00:00
+SITE-SUP-000024-01,SUP-000024,Nagoya Manufacturing Facility 1,Nagoya,Japan,7295,1,2025-01-01 00:00:00
+SITE-SUP-000025-01,SUP-000025,Pune Manufacturing Facility 1,Pune,India,7485,1,2025-01-01 00:00:00
+SITE-SUP-000025-02,SUP-000025,Chennai Manufacturing Facility 2,Chennai,India,7960,1,2025-01-01 00:00:00
+SITE-SUP-000026-01,SUP-000026,Da Nang Manufacturing Facility 1,Da Nang,Vietnam,2436,1,2025-01-01 00:00:00
+SITE-SUP-000027-01,SUP-000027,Tijuana Manufacturing Facility 1,Tijuana,Mexico,5716,1,2025-01-01 00:00:00
+SITE-SUP-000027-02,SUP-000027,Monterrey Manufacturing Facility 2,Monterrey,Mexico,9634,1,2025-01-01 00:00:00
+SITE-SUP-000028-01,SUP-000028,Munich Manufacturing Facility 1,Munich,Germany,5403,1,2025-01-01 00:00:00
+SITE-SUP-000028-02,SUP-000028,Munich Manufacturing Facility 2,Munich,Germany,4617,1,2025-01-01 00:00:00
+SITE-SUP-000029-01,SUP-000029,Monterrey Manufacturing Facility 1,Monterrey,Mexico,9691,1,2025-01-01 00:00:00
+SITE-SUP-000030-01,SUP-000030,Chennai Manufacturing Facility 1,Chennai,India,8082,1,2025-01-01 00:00:00
+SITE-SUP-000030-02,SUP-000030,Chennai Manufacturing Facility 2,Chennai,India,6125,1,2025-01-01 00:00:00
+SITE-SUP-000030-03,SUP-000030,Pune Manufacturing Facility 3,Pune,India,5515,1,2025-01-01 00:00:00
+SITE-SUP-000031-01,SUP-000031,Pune Manufacturing Facility 1,Pune,India,9882,1,2025-01-01 00:00:00
+SITE-SUP-000031-02,SUP-000031,Pune Manufacturing Facility 2,Pune,India,4049,1,2025-01-01 00:00:00
+SITE-SUP-000032-01,SUP-000032,Busan Manufacturing Facility 1,Busan,South Korea,5958,1,2025-01-01 00:00:00
+SITE-SUP-000033-01,SUP-000033,Chennai Manufacturing Facility 1,Chennai,India,2944,1,2025-01-01 00:00:00
+SITE-SUP-000033-02,SUP-000033,Pune Manufacturing Facility 2,Pune,India,8924,1,2025-01-01 00:00:00
+SITE-SUP-000034-01,SUP-000034,Binh Duong Manufacturing Facility 1,Binh Duong,Vietnam,6997,1,2025-01-01 00:00:00
+SITE-SUP-000035-01,SUP-000035,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,2962,1,2025-01-01 00:00:00
+SITE-SUP-000036-01,SUP-000036,Tokyo Manufacturing Facility 1,Tokyo,Japan,6414,1,2025-01-01 00:00:00
+SITE-SUP-000036-02,SUP-000036,Osaka Manufacturing Facility 2,Osaka,Japan,3364,1,2025-01-01 00:00:00
+SITE-SUP-000036-03,SUP-000036,Nagoya Manufacturing Facility 3,Nagoya,Japan,9601,1,2025-01-01 00:00:00
+SITE-SUP-000037-01,SUP-000037,Tokyo Manufacturing Facility 1,Tokyo,Japan,8545,1,2025-01-01 00:00:00
+SITE-SUP-000037-02,SUP-000037,Nagoya Manufacturing Facility 2,Nagoya,Japan,3277,1,2025-01-01 00:00:00
+SITE-SUP-000037-03,SUP-000037,Osaka Manufacturing Facility 3,Osaka,Japan,3637,1,2025-01-01 00:00:00
+SITE-SUP-000038-01,SUP-000038,Taichung Manufacturing Facility 1,Taichung,Taiwan,9096,1,2025-01-01 00:00:00
+SITE-SUP-000039-01,SUP-000039,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,2553,1,2025-01-01 00:00:00
+SITE-SUP-000039-02,SUP-000039,Guadalajara Manufacturing Facility 2,Guadalajara,Mexico,7148,1,2025-01-01 00:00:00
+SITE-SUP-000040-01,SUP-000040,Osaka Manufacturing Facility 1,Osaka,Japan,3832,1,2025-01-01 00:00:00
+SITE-SUP-000040-02,SUP-000040,Tokyo Manufacturing Facility 2,Tokyo,Japan,6114,1,2025-01-01 00:00:00
+SITE-SUP-000040-03,SUP-000040,Nagoya Manufacturing Facility 3,Nagoya,Japan,9777,1,2025-01-01 00:00:00
+SITE-SUP-000041-01,SUP-000041,Austin Manufacturing Facility 1,Austin,USA,4491,1,2025-01-01 00:00:00
+SITE-SUP-000041-02,SUP-000041,San Jose Manufacturing Facility 2,San Jose,USA,9006,1,2025-01-01 00:00:00
+SITE-SUP-000042-01,SUP-000042,Tokyo Manufacturing Facility 1,Tokyo,Japan,8820,1,2025-01-01 00:00:00
+SITE-SUP-000042-02,SUP-000042,Nagoya Manufacturing Facility 2,Nagoya,Japan,9748,1,2025-01-01 00:00:00
+SITE-SUP-000043-01,SUP-000043,Austin Manufacturing Facility 1,Austin,USA,3965,1,2025-01-01 00:00:00
+SITE-SUP-000043-02,SUP-000043,Austin Manufacturing Facility 2,Austin,USA,4006,1,2025-01-01 00:00:00
+SITE-SUP-000043-03,SUP-000043,San Jose Manufacturing Facility 3,San Jose,USA,5441,1,2025-01-01 00:00:00
+SITE-SUP-000044-01,SUP-000044,Osaka Manufacturing Facility 1,Osaka,Japan,6709,1,2025-01-01 00:00:00
+SITE-SUP-000044-02,SUP-000044,Osaka Manufacturing Facility 2,Osaka,Japan,6330,1,2025-01-01 00:00:00
+SITE-SUP-000045-01,SUP-000045,Busan Manufacturing Facility 1,Busan,South Korea,4586,1,2025-01-01 00:00:00
+SITE-SUP-000046-01,SUP-000046,Chicago Manufacturing Facility 1,Chicago,USA,6630,1,2025-01-01 00:00:00
+SITE-SUP-000046-02,SUP-000046,Chicago Manufacturing Facility 2,Chicago,USA,6892,1,2025-01-01 00:00:00
+SITE-SUP-000046-03,SUP-000046,Austin Manufacturing Facility 3,Austin,USA,3012,1,2025-01-01 00:00:00
+SITE-SUP-000047-01,SUP-000047,Taichung Manufacturing Facility 1,Taichung,Taiwan,2438,1,2025-01-01 00:00:00
+SITE-SUP-000047-02,SUP-000047,Hsinchu Manufacturing Facility 2,Hsinchu,Taiwan,6075,1,2025-01-01 00:00:00
+SITE-SUP-000047-03,SUP-000047,Tainan Manufacturing Facility 3,Tainan,Taiwan,4084,1,2025-01-01 00:00:00
+SITE-SUP-000048-01,SUP-000048,Nagoya Manufacturing Facility 1,Nagoya,Japan,2438,1,2025-01-01 00:00:00
+SITE-SUP-000048-02,SUP-000048,Nagoya Manufacturing Facility 2,Nagoya,Japan,3587,1,2025-01-01 00:00:00
+SITE-SUP-000048-03,SUP-000048,Osaka Manufacturing Facility 3,Osaka,Japan,8331,1,2025-01-01 00:00:00
+SITE-SUP-000049-01,SUP-000049,Suwon Manufacturing Facility 1,Suwon,South Korea,6434,1,2025-01-01 00:00:00
+SITE-SUP-000049-02,SUP-000049,Suwon Manufacturing Facility 2,Suwon,South Korea,3185,1,2025-01-01 00:00:00
+SITE-SUP-000049-03,SUP-000049,Busan Manufacturing Facility 3,Busan,South Korea,6591,1,2025-01-01 00:00:00
+SITE-SUP-000050-01,SUP-000050,Tijuana Manufacturing Facility 1,Tijuana,Mexico,2293,1,2025-01-01 00:00:00
+SITE-SUP-000050-02,SUP-000050,Guadalajara Manufacturing Facility 2,Guadalajara,Mexico,9556,1,2025-01-01 00:00:00
+SITE-SUP-000051-01,SUP-000051,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,3614,1,2025-01-01 00:00:00
+SITE-SUP-000051-02,SUP-000051,Tainan Manufacturing Facility 2,Tainan,Taiwan,7259,1,2025-01-01 00:00:00
+SITE-SUP-000051-03,SUP-000051,Taichung Manufacturing Facility 3,Taichung,Taiwan,3010,1,2025-01-01 00:00:00
+SITE-SUP-000052-01,SUP-000052,Busan Manufacturing Facility 1,Busan,South Korea,6854,1,2025-01-01 00:00:00
+SITE-SUP-000052-02,SUP-000052,Busan Manufacturing Facility 2,Busan,South Korea,2512,1,2025-01-01 00:00:00
+SITE-SUP-000052-03,SUP-000052,Suwon Manufacturing Facility 3,Suwon,South Korea,2292,1,2025-01-01 00:00:00
+SITE-SUP-000053-01,SUP-000053,Tijuana Manufacturing Facility 1,Tijuana,Mexico,5714,1,2025-01-01 00:00:00
+SITE-SUP-000053-02,SUP-000053,Tijuana Manufacturing Facility 2,Tijuana,Mexico,9538,1,2025-01-01 00:00:00
+SITE-SUP-000053-03,SUP-000053,Tijuana Manufacturing Facility 3,Tijuana,Mexico,2372,1,2025-01-01 00:00:00
+SITE-SUP-000054-01,SUP-000054,Tokyo Manufacturing Facility 1,Tokyo,Japan,3159,1,2025-01-01 00:00:00
+SITE-SUP-000054-02,SUP-000054,Nagoya Manufacturing Facility 2,Nagoya,Japan,8163,1,2025-01-01 00:00:00
+SITE-SUP-000054-03,SUP-000054,Osaka Manufacturing Facility 3,Osaka,Japan,3918,1,2025-01-01 00:00:00
+SITE-SUP-000055-01,SUP-000055,Taichung Manufacturing Facility 1,Taichung,Taiwan,5105,1,2025-01-01 00:00:00
+SITE-SUP-000055-02,SUP-000055,Taichung Manufacturing Facility 2,Taichung,Taiwan,9976,1,2025-01-01 00:00:00
+SITE-SUP-000056-01,SUP-000056,Bengaluru Manufacturing Facility 1,Bengaluru,India,5708,1,2025-01-01 00:00:00
+SITE-SUP-000056-02,SUP-000056,Chennai Manufacturing Facility 2,Chennai,India,6285,1,2025-01-01 00:00:00
+SITE-SUP-000057-01,SUP-000057,Hai Phong Manufacturing Facility 1,Hai Phong,Vietnam,8814,1,2025-01-01 00:00:00
+SITE-SUP-000057-02,SUP-000057,Hai Phong Manufacturing Facility 2,Hai Phong,Vietnam,3206,1,2025-01-01 00:00:00
+SITE-SUP-000057-03,SUP-000057,Binh Duong Manufacturing Facility 3,Binh Duong,Vietnam,9506,1,2025-01-01 00:00:00
+SITE-SUP-000058-01,SUP-000058,Taichung Manufacturing Facility 1,Taichung,Taiwan,2474,1,2025-01-01 00:00:00
+SITE-SUP-000059-01,SUP-000059,Bengaluru Manufacturing Facility 1,Bengaluru,India,2238,1,2025-01-01 00:00:00
+SITE-SUP-000059-02,SUP-000059,Chennai Manufacturing Facility 2,Chennai,India,6985,1,2025-01-01 00:00:00
+SITE-SUP-000059-03,SUP-000059,Pune Manufacturing Facility 3,Pune,India,4124,1,2025-01-01 00:00:00
+SITE-SUP-000060-01,SUP-000060,Incheon Manufacturing Facility 1,Incheon,South Korea,6741,1,2025-01-01 00:00:00
+SITE-SUP-000061-01,SUP-000061,Busan Manufacturing Facility 1,Busan,South Korea,7285,1,2025-01-01 00:00:00
+SITE-SUP-000062-01,SUP-000062,Munich Manufacturing Facility 1,Munich,Germany,6147,1,2025-01-01 00:00:00
+SITE-SUP-000063-01,SUP-000063,Busan Manufacturing Facility 1,Busan,South Korea,5270,1,2025-01-01 00:00:00
+SITE-SUP-000063-02,SUP-000063,Busan Manufacturing Facility 2,Busan,South Korea,2298,1,2025-01-01 00:00:00
+SITE-SUP-000063-03,SUP-000063,Busan Manufacturing Facility 3,Busan,South Korea,6400,1,2025-01-01 00:00:00
+SITE-SUP-000064-01,SUP-000064,Stuttgart Manufacturing Facility 1,Stuttgart,Germany,2171,1,2025-01-01 00:00:00
+SITE-SUP-000065-01,SUP-000065,Bengaluru Manufacturing Facility 1,Bengaluru,India,2090,1,2025-01-01 00:00:00
+SITE-SUP-000066-01,SUP-000066,Suwon Manufacturing Facility 1,Suwon,South Korea,3280,1,2025-01-01 00:00:00
+SITE-SUP-000066-02,SUP-000066,Busan Manufacturing Facility 2,Busan,South Korea,5798,1,2025-01-01 00:00:00
+SITE-SUP-000066-03,SUP-000066,Suwon Manufacturing Facility 3,Suwon,South Korea,5616,1,2025-01-01 00:00:00
+SITE-SUP-000067-01,SUP-000067,Pune Manufacturing Facility 1,Pune,India,9241,1,2025-01-01 00:00:00
+SITE-SUP-000067-02,SUP-000067,Chennai Manufacturing Facility 2,Chennai,India,2385,1,2025-01-01 00:00:00
+SITE-SUP-000067-03,SUP-000067,Chennai Manufacturing Facility 3,Chennai,India,9557,1,2025-01-01 00:00:00
+SITE-SUP-000068-01,SUP-000068,Hamburg Manufacturing Facility 1,Hamburg,Germany,9077,1,2025-01-01 00:00:00
+SITE-SUP-000068-02,SUP-000068,Munich Manufacturing Facility 2,Munich,Germany,7764,1,2025-01-01 00:00:00
+SITE-SUP-000068-03,SUP-000068,Munich Manufacturing Facility 3,Munich,Germany,3955,1,2025-01-01 00:00:00
+SITE-SUP-000069-01,SUP-000069,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,8883,1,2025-01-01 00:00:00
+SITE-SUP-000069-02,SUP-000069,Hsinchu Manufacturing Facility 2,Hsinchu,Taiwan,7234,1,2025-01-01 00:00:00
+SITE-SUP-000069-03,SUP-000069,Hsinchu Manufacturing Facility 3,Hsinchu,Taiwan,8663,1,2025-01-01 00:00:00
+SITE-SUP-000070-01,SUP-000070,Bengaluru Manufacturing Facility 1,Bengaluru,India,3388,1,2025-01-01 00:00:00
+SITE-SUP-000070-02,SUP-000070,Bengaluru Manufacturing Facility 2,Bengaluru,India,9847,1,2025-01-01 00:00:00
+SITE-SUP-000071-01,SUP-000071,Chicago Manufacturing Facility 1,Chicago,USA,9914,1,2025-01-01 00:00:00
+SITE-SUP-000071-02,SUP-000071,San Jose Manufacturing Facility 2,San Jose,USA,4909,1,2025-01-01 00:00:00
+SITE-SUP-000071-03,SUP-000071,Austin Manufacturing Facility 3,Austin,USA,8729,1,2025-01-01 00:00:00
+SITE-SUP-000072-01,SUP-000072,Busan Manufacturing Facility 1,Busan,South Korea,6097,1,2025-01-01 00:00:00
+SITE-SUP-000072-02,SUP-000072,Suwon Manufacturing Facility 2,Suwon,South Korea,6302,1,2025-01-01 00:00:00
+SITE-SUP-000073-01,SUP-000073,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,5151,1,2025-01-01 00:00:00
+SITE-SUP-000074-01,SUP-000074,Suwon Manufacturing Facility 1,Suwon,South Korea,6350,1,2025-01-01 00:00:00
+SITE-SUP-000074-02,SUP-000074,Incheon Manufacturing Facility 2,Incheon,South Korea,6821,1,2025-01-01 00:00:00
+SITE-SUP-000074-03,SUP-000074,Busan Manufacturing Facility 3,Busan,South Korea,5476,1,2025-01-01 00:00:00
+SITE-SUP-000075-01,SUP-000075,Da Nang Manufacturing Facility 1,Da Nang,Vietnam,9486,1,2025-01-01 00:00:00
+SITE-SUP-000076-01,SUP-000076,Tijuana Manufacturing Facility 1,Tijuana,Mexico,3836,1,2025-01-01 00:00:00
+SITE-SUP-000077-01,SUP-000077,Taichung Manufacturing Facility 1,Taichung,Taiwan,2723,1,2025-01-01 00:00:00
+SITE-SUP-000077-02,SUP-000077,Tainan Manufacturing Facility 2,Tainan,Taiwan,9828,1,2025-01-01 00:00:00
+SITE-SUP-000077-03,SUP-000077,Hsinchu Manufacturing Facility 3,Hsinchu,Taiwan,3240,1,2025-01-01 00:00:00
+SITE-SUP-000078-01,SUP-000078,Chennai Manufacturing Facility 1,Chennai,India,7908,1,2025-01-01 00:00:00
+SITE-SUP-000078-02,SUP-000078,Pune Manufacturing Facility 2,Pune,India,3642,1,2025-01-01 00:00:00
+SITE-SUP-000079-01,SUP-000079,Binh Duong Manufacturing Facility 1,Binh Duong,Vietnam,3242,1,2025-01-01 00:00:00
+SITE-SUP-000080-01,SUP-000080,Stuttgart Manufacturing Facility 1,Stuttgart,Germany,4672,1,2025-01-01 00:00:00
+SITE-SUP-000080-02,SUP-000080,Hamburg Manufacturing Facility 2,Hamburg,Germany,9943,1,2025-01-01 00:00:00
+SITE-SUP-000080-03,SUP-000080,Hamburg Manufacturing Facility 3,Hamburg,Germany,2474,1,2025-01-01 00:00:00
+SITE-SUP-000081-01,SUP-000081,Bengaluru Manufacturing Facility 1,Bengaluru,India,6324,1,2025-01-01 00:00:00
+SITE-SUP-000082-01,SUP-000082,Munich Manufacturing Facility 1,Munich,Germany,7394,1,2025-01-01 00:00:00
+SITE-SUP-000083-01,SUP-000083,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,4802,1,2025-01-01 00:00:00
+SITE-SUP-000083-02,SUP-000083,Tijuana Manufacturing Facility 2,Tijuana,Mexico,8741,1,2025-01-01 00:00:00
+SITE-SUP-000084-01,SUP-000084,Chicago Manufacturing Facility 1,Chicago,USA,2576,1,2025-01-01 00:00:00
+SITE-SUP-000084-02,SUP-000084,San Jose Manufacturing Facility 2,San Jose,USA,5682,1,2025-01-01 00:00:00
+SITE-SUP-000085-01,SUP-000085,Monterrey Manufacturing Facility 1,Monterrey,Mexico,8864,1,2025-01-01 00:00:00
+SITE-SUP-000086-01,SUP-000086,Stuttgart Manufacturing Facility 1,Stuttgart,Germany,3280,1,2025-01-01 00:00:00
+SITE-SUP-000086-02,SUP-000086,Hamburg Manufacturing Facility 2,Hamburg,Germany,8499,1,2025-01-01 00:00:00
+SITE-SUP-000087-01,SUP-000087,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,5753,1,2025-01-01 00:00:00
+SITE-SUP-000087-02,SUP-000087,Tainan Manufacturing Facility 2,Tainan,Taiwan,5806,1,2025-01-01 00:00:00
+SITE-SUP-000088-01,SUP-000088,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,7143,1,2025-01-01 00:00:00
+SITE-SUP-000089-01,SUP-000089,Monterrey Manufacturing Facility 1,Monterrey,Mexico,7726,1,2025-01-01 00:00:00
+SITE-SUP-000090-01,SUP-000090,Taichung Manufacturing Facility 1,Taichung,Taiwan,7987,1,2025-01-01 00:00:00
+SITE-SUP-000091-01,SUP-000091,Stuttgart Manufacturing Facility 1,Stuttgart,Germany,5085,1,2025-01-01 00:00:00
+SITE-SUP-000092-01,SUP-000092,Tokyo Manufacturing Facility 1,Tokyo,Japan,8440,1,2025-01-01 00:00:00
+SITE-SUP-000092-02,SUP-000092,Tokyo Manufacturing Facility 2,Tokyo,Japan,6140,1,2025-01-01 00:00:00
+SITE-SUP-000092-03,SUP-000092,Nagoya Manufacturing Facility 3,Nagoya,Japan,8959,1,2025-01-01 00:00:00
+SITE-SUP-000093-01,SUP-000093,Hai Phong Manufacturing Facility 1,Hai Phong,Vietnam,4637,1,2025-01-01 00:00:00
+SITE-SUP-000093-02,SUP-000093,Hai Phong Manufacturing Facility 2,Hai Phong,Vietnam,4468,1,2025-01-01 00:00:00
+SITE-SUP-000094-01,SUP-000094,Austin Manufacturing Facility 1,Austin,USA,8918,1,2025-01-01 00:00:00
+SITE-SUP-000094-02,SUP-000094,Chicago Manufacturing Facility 2,Chicago,USA,6652,1,2025-01-01 00:00:00
+SITE-SUP-000094-03,SUP-000094,San Jose Manufacturing Facility 3,San Jose,USA,9641,1,2025-01-01 00:00:00
+SITE-SUP-000095-01,SUP-000095,Guadalajara Manufacturing Facility 1,Guadalajara,Mexico,5665,1,2025-01-01 00:00:00
+SITE-SUP-000095-02,SUP-000095,Guadalajara Manufacturing Facility 2,Guadalajara,Mexico,8101,1,2025-01-01 00:00:00
+SITE-SUP-000095-03,SUP-000095,Monterrey Manufacturing Facility 3,Monterrey,Mexico,5310,1,2025-01-01 00:00:00
+SITE-SUP-000096-01,SUP-000096,Da Nang Manufacturing Facility 1,Da Nang,Vietnam,2465,1,2025-01-01 00:00:00
+SITE-SUP-000096-02,SUP-000096,Binh Duong Manufacturing Facility 2,Binh Duong,Vietnam,2409,1,2025-01-01 00:00:00
+SITE-SUP-000097-01,SUP-000097,Hsinchu Manufacturing Facility 1,Hsinchu,Taiwan,2632,1,2025-01-01 00:00:00
+SITE-SUP-000097-02,SUP-000097,Taichung Manufacturing Facility 2,Taichung,Taiwan,6211,1,2025-01-01 00:00:00
+SITE-SUP-000097-03,SUP-000097,Tainan Manufacturing Facility 3,Tainan,Taiwan,7247,1,2025-01-01 00:00:00
+SITE-SUP-000098-01,SUP-000098,Stuttgart Manufacturing Facility 1,Stuttgart,Germany,5284,1,2025-01-01 00:00:00
+SITE-SUP-000099-01,SUP-000099,Tokyo Manufacturing Facility 1,Tokyo,Japan,5972,1,2025-01-01 00:00:00
+SITE-SUP-000099-02,SUP-000099,Osaka Manufacturing Facility 2,Osaka,Japan,4732,1,2025-01-01 00:00:00
+SITE-SUP-000100-01,SUP-000100,Nagoya Manufacturing Facility 1,Nagoya,Japan,8960,1,2025-01-01 00:00:00
+SITE-SUP-000100-02,SUP-000100,Nagoya Manufacturing Facility 2,Nagoya,Japan,7844,1,2025-01-01 00:00:00

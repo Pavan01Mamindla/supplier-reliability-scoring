@@ -1,0 +1,6 @@
+issue_type,ground_truth_label,affected_record_id,expected_validation_result,anomaly_description
+ORPHAN_SHIPMENT,INVALID_FOREIGN_KEY,SHP-2026-000001,FAIL,Shipment references non-existent PO PO-2026-999999.
+DATE_INVERSION,TEMPORAL_VIOLATION,DEL-2026-000002,FAIL,Delivery date 2026-05-25 occurs prior to dispatch date 2026-05-30.
+FUTURE_DATA_LEAKAGE,FUTURE_DATE_VIOLATION,RSK-FUTURE-SIGNAL-01,FAIL,Event timestamp occurs in future (2027-06-15) relative to evaluation date (2026-10-22).
+MISSING_MANDATORY_PROVENANCE,NULL_METADATA_VIOLATION,RSK-ANOM-MISSING-01,FAIL,Risk signal record missing mandatory source provenance and created_at audit timestamp.
+SITE_CONFLATION,CROSS_SUPPLIER_MISMATCH,SITE-SUP-000001-03,FAIL,Site ID naming structure mismatches parent foreign key assignment (SUP-000100).

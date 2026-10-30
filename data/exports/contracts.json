@@ -1,0 +1,1002 @@
+[
+  {
+    "contract_id":"CTR-SUP-000001-01",
+    "supplier_id":"SUP-000001",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":29398,
+    "agreed_unit_price":466.72,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000002-01",
+    "supplier_id":"SUP-000002",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":24059,
+    "agreed_unit_price":29.22,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000003-01",
+    "supplier_id":"SUP-000003",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":23460,
+    "agreed_unit_price":93.05,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000004-01",
+    "supplier_id":"SUP-000004",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":30697,
+    "agreed_unit_price":263.99,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000005-01",
+    "supplier_id":"SUP-000005",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":49379,
+    "agreed_unit_price":350.72,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000006-01",
+    "supplier_id":"SUP-000006",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":32637,
+    "agreed_unit_price":422.66,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000007-01",
+    "supplier_id":"SUP-000007",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":6401,
+    "agreed_unit_price":455.99,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000008-01",
+    "supplier_id":"SUP-000008",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":5508,
+    "agreed_unit_price":233.17,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000009-01",
+    "supplier_id":"SUP-000009",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":14717,
+    "agreed_unit_price":95.15,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000010-01",
+    "supplier_id":"SUP-000010",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":11515,
+    "agreed_unit_price":384.15,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000011-01",
+    "supplier_id":"SUP-000011",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":19227,
+    "agreed_unit_price":457.37,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000012-01",
+    "supplier_id":"SUP-000012",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":42541,
+    "agreed_unit_price":60.73,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000013-01",
+    "supplier_id":"SUP-000013",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":34058,
+    "agreed_unit_price":453.74,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000014-01",
+    "supplier_id":"SUP-000014",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":35094,
+    "agreed_unit_price":393.49,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000015-01",
+    "supplier_id":"SUP-000015",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":33765,
+    "agreed_unit_price":300.78,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000016-01",
+    "supplier_id":"SUP-000016",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":36084,
+    "agreed_unit_price":173.04,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000017-01",
+    "supplier_id":"SUP-000017",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":34759,
+    "agreed_unit_price":14.03,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000018-01",
+    "supplier_id":"SUP-000018",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":36039,
+    "agreed_unit_price":281.87,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000019-01",
+    "supplier_id":"SUP-000019",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":37650,
+    "agreed_unit_price":359.48,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000020-01",
+    "supplier_id":"SUP-000020",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":5438,
+    "agreed_unit_price":52.48,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000021-01",
+    "supplier_id":"SUP-000021",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":28262,
+    "agreed_unit_price":246.45,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000022-01",
+    "supplier_id":"SUP-000022",
+    "start_date":"2025-01-01",
+    "end_date":"2025-12-31",
+    "committed_volume":21955,
+    "agreed_unit_price":150.34,
+    "status":"Expired",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000023-01",
+    "supplier_id":"SUP-000023",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":11048,
+    "agreed_unit_price":83.22,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000024-01",
+    "supplier_id":"SUP-000024",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":38469,
+    "agreed_unit_price":237.22,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000025-01",
+    "supplier_id":"SUP-000025",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":5343,
+    "agreed_unit_price":489.93,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000026-01",
+    "supplier_id":"SUP-000026",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":34672,
+    "agreed_unit_price":496.07,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000027-01",
+    "supplier_id":"SUP-000027",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":17860,
+    "agreed_unit_price":152.53,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000028-01",
+    "supplier_id":"SUP-000028",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":49065,
+    "agreed_unit_price":61.86,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000029-01",
+    "supplier_id":"SUP-000029",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":22431,
+    "agreed_unit_price":170.41,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000030-01",
+    "supplier_id":"SUP-000030",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":46184,
+    "agreed_unit_price":112.81,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000031-01",
+    "supplier_id":"SUP-000031",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":31188,
+    "agreed_unit_price":156.31,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000032-01",
+    "supplier_id":"SUP-000032",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":45111,
+    "agreed_unit_price":359.82,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000033-01",
+    "supplier_id":"SUP-000033",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":46366,
+    "agreed_unit_price":385.66,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000034-01",
+    "supplier_id":"SUP-000034",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":22540,
+    "agreed_unit_price":67.89,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000035-01",
+    "supplier_id":"SUP-000035",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":35563,
+    "agreed_unit_price":183.03,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000036-01",
+    "supplier_id":"SUP-000036",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":43137,
+    "agreed_unit_price":355.79,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000037-01",
+    "supplier_id":"SUP-000037",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":31100,
+    "agreed_unit_price":60.95,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000038-01",
+    "supplier_id":"SUP-000038",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":48771,
+    "agreed_unit_price":266.92,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000039-01",
+    "supplier_id":"SUP-000039",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":16330,
+    "agreed_unit_price":258.24,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000040-01",
+    "supplier_id":"SUP-000040",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":11111,
+    "agreed_unit_price":105.62,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000041-01",
+    "supplier_id":"SUP-000041",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":17735,
+    "agreed_unit_price":134.57,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000042-01",
+    "supplier_id":"SUP-000042",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":6810,
+    "agreed_unit_price":44.91,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000043-01",
+    "supplier_id":"SUP-000043",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":35884,
+    "agreed_unit_price":470.27,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000044-01",
+    "supplier_id":"SUP-000044",
+    "start_date":"2025-01-01",
+    "end_date":"2025-12-31",
+    "committed_volume":31825,
+    "agreed_unit_price":363.14,
+    "status":"Expired",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000045-01",
+    "supplier_id":"SUP-000045",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":18131,
+    "agreed_unit_price":251.35,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000046-01",
+    "supplier_id":"SUP-000046",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":44733,
+    "agreed_unit_price":369.23,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000047-01",
+    "supplier_id":"SUP-000047",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":38559,
+    "agreed_unit_price":274.97,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000048-01",
+    "supplier_id":"SUP-000048",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":16830,
+    "agreed_unit_price":431.0,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000049-01",
+    "supplier_id":"SUP-000049",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":9974,
+    "agreed_unit_price":284.36,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000050-01",
+    "supplier_id":"SUP-000050",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":12197,
+    "agreed_unit_price":178.05,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000051-01",
+    "supplier_id":"SUP-000051",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":19865,
+    "agreed_unit_price":286.03,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000052-01",
+    "supplier_id":"SUP-000052",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":44262,
+    "agreed_unit_price":129.24,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000053-01",
+    "supplier_id":"SUP-000053",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":23308,
+    "agreed_unit_price":282.41,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000054-01",
+    "supplier_id":"SUP-000054",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":18090,
+    "agreed_unit_price":351.47,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000055-01",
+    "supplier_id":"SUP-000055",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":34610,
+    "agreed_unit_price":32.96,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000056-01",
+    "supplier_id":"SUP-000056",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":23060,
+    "agreed_unit_price":326.09,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000057-01",
+    "supplier_id":"SUP-000057",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":43373,
+    "agreed_unit_price":207.95,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000058-01",
+    "supplier_id":"SUP-000058",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":22694,
+    "agreed_unit_price":283.31,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000059-01",
+    "supplier_id":"SUP-000059",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":41886,
+    "agreed_unit_price":51.97,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000060-01",
+    "supplier_id":"SUP-000060",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":12960,
+    "agreed_unit_price":377.89,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000061-01",
+    "supplier_id":"SUP-000061",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":38067,
+    "agreed_unit_price":126.69,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000062-01",
+    "supplier_id":"SUP-000062",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":36416,
+    "agreed_unit_price":40.3,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000063-01",
+    "supplier_id":"SUP-000063",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":13069,
+    "agreed_unit_price":313.25,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000064-01",
+    "supplier_id":"SUP-000064",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":44567,
+    "agreed_unit_price":147.25,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000065-01",
+    "supplier_id":"SUP-000065",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":30071,
+    "agreed_unit_price":349.42,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000066-01",
+    "supplier_id":"SUP-000066",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":13861,
+    "agreed_unit_price":413.85,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000067-01",
+    "supplier_id":"SUP-000067",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":46380,
+    "agreed_unit_price":426.07,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000068-01",
+    "supplier_id":"SUP-000068",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":35322,
+    "agreed_unit_price":408.98,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000069-01",
+    "supplier_id":"SUP-000069",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":22075,
+    "agreed_unit_price":461.24,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000070-01",
+    "supplier_id":"SUP-000070",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":45679,
+    "agreed_unit_price":127.63,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000071-01",
+    "supplier_id":"SUP-000071",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":19325,
+    "agreed_unit_price":443.88,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000072-01",
+    "supplier_id":"SUP-000072",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":11504,
+    "agreed_unit_price":471.59,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000073-01",
+    "supplier_id":"SUP-000073",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":46655,
+    "agreed_unit_price":495.02,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000074-01",
+    "supplier_id":"SUP-000074",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":6218,
+    "agreed_unit_price":349.72,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000075-01",
+    "supplier_id":"SUP-000075",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":20926,
+    "agreed_unit_price":418.16,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000076-01",
+    "supplier_id":"SUP-000076",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":33945,
+    "agreed_unit_price":278.3,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000077-01",
+    "supplier_id":"SUP-000077",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":38681,
+    "agreed_unit_price":147.57,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000078-01",
+    "supplier_id":"SUP-000078",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":24536,
+    "agreed_unit_price":385.99,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000079-01",
+    "supplier_id":"SUP-000079",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":20113,
+    "agreed_unit_price":419.94,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000080-01",
+    "supplier_id":"SUP-000080",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":18625,
+    "agreed_unit_price":177.28,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000081-01",
+    "supplier_id":"SUP-000081",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":32083,
+    "agreed_unit_price":161.87,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000082-01",
+    "supplier_id":"SUP-000082",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":41851,
+    "agreed_unit_price":82.8,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000083-01",
+    "supplier_id":"SUP-000083",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":5576,
+    "agreed_unit_price":159.19,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000084-01",
+    "supplier_id":"SUP-000084",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":19857,
+    "agreed_unit_price":353.38,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000085-01",
+    "supplier_id":"SUP-000085",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":14714,
+    "agreed_unit_price":379.28,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000086-01",
+    "supplier_id":"SUP-000086",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":7294,
+    "agreed_unit_price":120.16,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000087-01",
+    "supplier_id":"SUP-000087",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":46696,
+    "agreed_unit_price":449.68,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000088-01",
+    "supplier_id":"SUP-000088",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":15653,
+    "agreed_unit_price":47.69,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000089-01",
+    "supplier_id":"SUP-000089",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":17434,
+    "agreed_unit_price":319.56,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000090-01",
+    "supplier_id":"SUP-000090",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":40173,
+    "agreed_unit_price":161.46,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000091-01",
+    "supplier_id":"SUP-000091",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":41833,
+    "agreed_unit_price":452.2,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000092-01",
+    "supplier_id":"SUP-000092",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":13704,
+    "agreed_unit_price":207.52,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000093-01",
+    "supplier_id":"SUP-000093",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":11684,
+    "agreed_unit_price":402.98,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000094-01",
+    "supplier_id":"SUP-000094",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":13589,
+    "agreed_unit_price":157.58,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000095-01",
+    "supplier_id":"SUP-000095",
+    "start_date":"2025-01-01",
+    "end_date":"2025-12-31",
+    "committed_volume":30011,
+    "agreed_unit_price":407.27,
+    "status":"Expired",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000096-01",
+    "supplier_id":"SUP-000096",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":47427,
+    "agreed_unit_price":388.57,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000097-01",
+    "supplier_id":"SUP-000097",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":28381,
+    "agreed_unit_price":423.17,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000098-01",
+    "supplier_id":"SUP-000098",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":26533,
+    "agreed_unit_price":195.14,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000099-01",
+    "supplier_id":"SUP-000099",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":38687,
+    "agreed_unit_price":454.28,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "contract_id":"CTR-SUP-000100-01",
+    "supplier_id":"SUP-000100",
+    "start_date":"2025-01-01",
+    "end_date":"2027-12-31",
+    "committed_volume":16046,
+    "agreed_unit_price":317.87,
+    "status":"Active",
+    "created_at":"2025-01-01 00:00:00"
+  }
+]

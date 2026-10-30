@@ -1,0 +1,16 @@
+check_name,status,severity,failures_count,description
+PK_UNIQUENESS_SUPPLIERS,PASS,CRITICAL,0,Primary key column supplier_id uniqueness verification in table suppliers.
+PK_UNIQUENESS_SITES,PASS,CRITICAL,0,Primary key column site_id uniqueness verification in table sites.
+PK_UNIQUENESS_CONTRACTS,PASS,CRITICAL,0,Primary key column contract_id uniqueness verification in table contracts.
+PK_UNIQUENESS_PURCHASE_ORDERS,PASS,CRITICAL,0,Primary key column po_id uniqueness verification in table purchase_orders.
+PK_UNIQUENESS_PO_LINES,PASS,CRITICAL,0,Primary key column po_line_id uniqueness verification in table po_lines.
+PK_UNIQUENESS_SHIPMENTS,PASS,CRITICAL,0,Primary key column shipment_id uniqueness verification in table shipments.
+PK_UNIQUENESS_DELIVERY_EVENTS,PASS,CRITICAL,0,Primary key column delivery_id uniqueness verification in table delivery_events.
+PK_UNIQUENESS_INSPECTIONS,PASS,CRITICAL,0,Primary key column inspection_id uniqueness verification in table inspections.
+PK_UNIQUENESS_INVOICES,PASS,CRITICAL,0,Primary key column invoice_id uniqueness verification in table invoices.
+PK_UNIQUENESS_RISK_SIGNALS,PASS,CRITICAL,0,Primary key column signal_id uniqueness verification in table risk_signals.
+PK_UNIQUENESS_SUPPLIER_SCORES,PASS,CRITICAL,0,Primary key column score_id uniqueness verification in table supplier_scores.
+FK_SHIPMENT_PURCHASE_ORDER,FAIL,HIGH,1,Detected 1 shipments referencing invalid PO IDs.
+DATE_ORDER_DISPATCH_DELIVERY,FAIL,HIGH,1,Found 1 deliveries occurring before dispatch date.
+RISK_SIGNAL_PROVENANCE,FAIL,MEDIUM,2,Identified 2 risk signals missing origin source or timestamp.
+TEMPORAL_FUTURE_LEAKAGE,FAIL,HIGH,1,Detected 1 records with timestamps past evaluation cutoff (2026-10-22).

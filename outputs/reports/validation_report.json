@@ -1,0 +1,116 @@
+{
+    "summary": {
+        "total_checks_executed": 15,
+        "passed_checks": 11,
+        "failed_checks": 4,
+        "overall_status": "UNHEALTHY",
+        "execution_timestamp": "2026-10-22 12:00:00"
+    },
+    "checks": [
+        {
+            "check_name": "PK_UNIQUENESS_SUPPLIERS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column supplier_id uniqueness verification in table suppliers."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_SITES",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column site_id uniqueness verification in table sites."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_CONTRACTS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column contract_id uniqueness verification in table contracts."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_PURCHASE_ORDERS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column po_id uniqueness verification in table purchase_orders."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_PO_LINES",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column po_line_id uniqueness verification in table po_lines."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_SHIPMENTS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column shipment_id uniqueness verification in table shipments."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_DELIVERY_EVENTS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column delivery_id uniqueness verification in table delivery_events."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_INSPECTIONS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column inspection_id uniqueness verification in table inspections."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_INVOICES",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column invoice_id uniqueness verification in table invoices."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_RISK_SIGNALS",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column signal_id uniqueness verification in table risk_signals."
+        },
+        {
+            "check_name": "PK_UNIQUENESS_SUPPLIER_SCORES",
+            "status": "PASS",
+            "severity": "CRITICAL",
+            "failures_count": 0,
+            "description": "Primary key column score_id uniqueness verification in table supplier_scores."
+        },
+        {
+            "check_name": "FK_SHIPMENT_PURCHASE_ORDER",
+            "status": "FAIL",
+            "severity": "HIGH",
+            "failures_count": 1,
+            "description": "Detected 1 shipments referencing invalid PO IDs."
+        },
+        {
+            "check_name": "DATE_ORDER_DISPATCH_DELIVERY",
+            "status": "FAIL",
+            "severity": "HIGH",
+            "failures_count": 1,
+            "description": "Found 1 deliveries occurring before dispatch date."
+        },
+        {
+            "check_name": "RISK_SIGNAL_PROVENANCE",
+            "status": "FAIL",
+            "severity": "MEDIUM",
+            "failures_count": 2,
+            "description": "Identified 2 risk signals missing origin source or timestamp."
+        },
+        {
+            "check_name": "TEMPORAL_FUTURE_LEAKAGE",
+            "status": "FAIL",
+            "severity": "HIGH",
+            "failures_count": 1,
+            "description": "Detected 1 records with timestamps past evaluation cutoff (2026-10-22)."
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+supplier_id,name,category,country,status,risk_level,profile_type,created_at
+SUP-000001,Supplier Global 1 Corp,Logistics Services,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000002,Supplier Global 2 Corp,Raw Materials,India,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000003,Supplier Global 3 Corp,Raw Materials,Mexico,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000004,Supplier Global 4 Corp,Logistics Services,South Korea,Active,Low,Average,2025-01-01 00:00:00
+SUP-000005,Supplier Global 5 Corp,Mechanical Components,Japan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000006,Supplier Global 6 Corp,Packaging,Taiwan,Active,Low,Average,2025-01-01 00:00:00
+SUP-000007,Supplier Global 7 Corp,Raw Materials,Taiwan,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000008,Supplier Global 8 Corp,Electronics,India,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000009,Supplier Global 9 Corp,Packaging,USA,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000010,Supplier Global 10 Corp,Electronics,Vietnam,Active,Low,Average,2025-01-01 00:00:00
+SUP-000011,Supplier Global 11 Corp,Raw Materials,Mexico,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000012,Supplier Global 12 Corp,Mechanical Components,USA,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000013,Supplier Global 13 Corp,Electronics,South Korea,Active,Low,Average,2025-01-01 00:00:00
+SUP-000014,Supplier Global 14 Corp,Logistics Services,Germany,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000015,Supplier Global 15 Corp,Logistics Services,India,Active,Low,Insufficient Data,2025-01-01 00:00:00
+SUP-000016,Supplier Global 16 Corp,Raw Materials,Mexico,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000017,Supplier Global 17 Corp,Electronics,India,Active,Low,Average,2025-01-01 00:00:00
+SUP-000018,Supplier Global 18 Corp,Mechanical Components,Vietnam,Active,Medium,Disruption Affected,2025-01-01 00:00:00
+SUP-000019,Supplier Global 19 Corp,Electronics,South Korea,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000020,Supplier Global 20 Corp,Raw Materials,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000021,Supplier Global 21 Corp,Raw Materials,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000022,Supplier Global 22 Corp,Packaging,South Korea,Suspended,High,Compliance Violations,2025-01-01 00:00:00
+SUP-000023,Supplier Global 23 Corp,Mechanical Components,Mexico,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000024,Supplier Global 24 Corp,Raw Materials,Japan,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000025,Supplier Global 25 Corp,Raw Materials,India,Active,Low,Average,2025-01-01 00:00:00
+SUP-000026,Supplier Global 26 Corp,Electronics,Vietnam,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000027,Supplier Global 27 Corp,Mechanical Components,Mexico,Active,Low,Average,2025-01-01 00:00:00
+SUP-000028,Supplier Global 28 Corp,Mechanical Components,Germany,Active,Low,Average,2025-01-01 00:00:00
+SUP-000029,Supplier Global 29 Corp,Packaging,Mexico,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000030,Supplier Global 30 Corp,Packaging,India,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000031,Supplier Global 31 Corp,Raw Materials,India,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000032,Supplier Global 32 Corp,Logistics Services,South Korea,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000033,Supplier Global 33 Corp,Packaging,India,Active,Low,Average,2025-01-01 00:00:00
+SUP-000034,Supplier Global 34 Corp,Electronics,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000035,Supplier Global 35 Corp,Mechanical Components,Taiwan,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000036,Supplier Global 36 Corp,Mechanical Components,Japan,Active,Low,Average,2025-01-01 00:00:00
+SUP-000037,Supplier Global 37 Corp,Mechanical Components,Japan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000038,Supplier Global 38 Corp,Raw Materials,Taiwan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000039,Supplier Global 39 Corp,Mechanical Components,Mexico,Active,Low,Average,2025-01-01 00:00:00
+SUP-000040,Supplier Global 40 Corp,Raw Materials,Japan,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000041,Supplier Global 41 Corp,Electronics,USA,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000042,Supplier Global 42 Corp,Mechanical Components,Japan,Active,Medium,Disruption Affected,2025-01-01 00:00:00
+SUP-000043,Supplier Global 43 Corp,Packaging,USA,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000044,Supplier Global 44 Corp,Packaging,Japan,Suspended,High,Compliance Violations,2025-01-01 00:00:00
+SUP-000045,Supplier Global 45 Corp,Mechanical Components,South Korea,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000046,Supplier Global 46 Corp,Logistics Services,USA,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000047,Supplier Global 47 Corp,Electronics,Taiwan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000048,Supplier Global 48 Corp,Logistics Services,Japan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000049,Supplier Global 49 Corp,Logistics Services,South Korea,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000050,Supplier Global 50 Corp,Packaging,Mexico,Active,Low,Average,2025-01-01 00:00:00
+SUP-000051,Supplier Global 51 Corp,Packaging,Taiwan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000052,Supplier Global 52 Corp,Raw Materials,South Korea,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000053,Supplier Global 53 Corp,Raw Materials,Mexico,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000054,Supplier Global 54 Corp,Packaging,Japan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000055,Supplier Global 55 Corp,Logistics Services,Taiwan,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000056,Supplier Global 56 Corp,Logistics Services,India,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000057,Supplier Global 57 Corp,Logistics Services,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000058,Supplier Global 58 Corp,Raw Materials,Taiwan,Active,Low,Insufficient Data,2025-01-01 00:00:00
+SUP-000059,Supplier Global 59 Corp,Electronics,India,Active,Low,Average,2025-01-01 00:00:00
+SUP-000060,Supplier Global 60 Corp,Electronics,South Korea,Active,Low,Insufficient Data,2025-01-01 00:00:00
+SUP-000061,Supplier Global 61 Corp,Electronics,South Korea,Active,Low,Average,2025-01-01 00:00:00
+SUP-000062,Supplier Global 62 Corp,Mechanical Components,Germany,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000063,Supplier Global 63 Corp,Packaging,South Korea,Active,Medium,Disruption Affected,2025-01-01 00:00:00
+SUP-000064,Supplier Global 64 Corp,Raw Materials,Germany,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000065,Supplier Global 65 Corp,Packaging,India,Active,Low,Insufficient Data,2025-01-01 00:00:00
+SUP-000066,Supplier Global 66 Corp,Packaging,South Korea,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000067,Supplier Global 67 Corp,Logistics Services,India,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000068,Supplier Global 68 Corp,Packaging,Germany,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000069,Supplier Global 69 Corp,Packaging,Taiwan,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000070,Supplier Global 70 Corp,Packaging,India,Active,Low,Average,2025-01-01 00:00:00
+SUP-000071,Supplier Global 71 Corp,Logistics Services,USA,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000072,Supplier Global 72 Corp,Logistics Services,South Korea,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000073,Supplier Global 73 Corp,Packaging,Mexico,Active,Low,Average,2025-01-01 00:00:00
+SUP-000074,Supplier Global 74 Corp,Raw Materials,South Korea,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000075,Supplier Global 75 Corp,Electronics,Vietnam,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000076,Supplier Global 76 Corp,Electronics,Mexico,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000077,Supplier Global 77 Corp,Mechanical Components,Taiwan,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000078,Supplier Global 78 Corp,Mechanical Components,India,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000079,Supplier Global 79 Corp,Electronics,Vietnam,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000080,Supplier Global 80 Corp,Logistics Services,Germany,Active,Low,Average,2025-01-01 00:00:00
+SUP-000081,Supplier Global 81 Corp,Electronics,India,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000082,Supplier Global 82 Corp,Logistics Services,Germany,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000083,Supplier Global 83 Corp,Raw Materials,Mexico,Active,Medium,Disruption Affected,2025-01-01 00:00:00
+SUP-000084,Supplier Global 84 Corp,Packaging,USA,Probation,High,Poor Performing,2025-01-01 00:00:00
+SUP-000085,Supplier Global 85 Corp,Raw Materials,Mexico,Active,Low,Average,2025-01-01 00:00:00
+SUP-000086,Supplier Global 86 Corp,Packaging,Germany,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000087,Supplier Global 87 Corp,Electronics,Taiwan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000088,Supplier Global 88 Corp,Mechanical Components,Taiwan,Active,Low,Average,2025-01-01 00:00:00
+SUP-000089,Supplier Global 89 Corp,Packaging,Mexico,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000090,Supplier Global 90 Corp,Packaging,Taiwan,Active,Low,Average,2025-01-01 00:00:00
+SUP-000091,Supplier Global 91 Corp,Packaging,Germany,Active,Low,Average,2025-01-01 00:00:00
+SUP-000092,Supplier Global 92 Corp,Electronics,Japan,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000093,Supplier Global 93 Corp,Mechanical Components,Vietnam,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00
+SUP-000094,Supplier Global 94 Corp,Logistics Services,USA,Active,Medium,Recurring Quality Issues,2025-01-01 00:00:00
+SUP-000095,Supplier Global 95 Corp,Logistics Services,Mexico,Suspended,High,Compliance Violations,2025-01-01 00:00:00
+SUP-000096,Supplier Global 96 Corp,Electronics,Vietnam,Active,Low,Average,2025-01-01 00:00:00
+SUP-000097,Supplier Global 97 Corp,Mechanical Components,Taiwan,Active,Low,Highly Reliable,2025-01-01 00:00:00
+SUP-000098,Supplier Global 98 Corp,Logistics Services,Germany,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000099,Supplier Global 99 Corp,Logistics Services,Japan,Active,Medium,Deteriorating Delivery,2025-01-01 00:00:00
+SUP-000100,Supplier Global 100 Corp,Packaging,Japan,Active,Low,Invoice Discrepancies,2025-01-01 00:00:00

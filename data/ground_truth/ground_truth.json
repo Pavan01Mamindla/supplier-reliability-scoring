@@ -1,0 +1,37 @@
+[
+    {
+        "issue_type":"ORPHAN_SHIPMENT",
+        "ground_truth_label":"INVALID_FOREIGN_KEY",
+        "affected_record_id":"SHP-2026-000001",
+        "expected_validation_result":"FAIL",
+        "anomaly_description":"Shipment references non-existent PO PO-2026-999999."
+    },
+    {
+        "issue_type":"DATE_INVERSION",
+        "ground_truth_label":"TEMPORAL_VIOLATION",
+        "affected_record_id":"DEL-2026-000002",
+        "expected_validation_result":"FAIL",
+        "anomaly_description":"Delivery date 2026-05-25 occurs prior to dispatch date 2026-05-30."
+    },
+    {
+        "issue_type":"FUTURE_DATA_LEAKAGE",
+        "ground_truth_label":"FUTURE_DATE_VIOLATION",
+        "affected_record_id":"RSK-FUTURE-SIGNAL-01",
+        "expected_validation_result":"FAIL",
+        "anomaly_description":"Event timestamp occurs in future (2027-06-15) relative to evaluation date (2026-10-22)."
+    },
+    {
+        "issue_type":"MISSING_MANDATORY_PROVENANCE",
+        "ground_truth_label":"NULL_METADATA_VIOLATION",
+        "affected_record_id":"RSK-ANOM-MISSING-01",
+        "expected_validation_result":"FAIL",
+        "anomaly_description":"Risk signal record missing mandatory source provenance and created_at audit timestamp."
+    },
+    {
+        "issue_type":"SITE_CONFLATION",
+        "ground_truth_label":"CROSS_SUPPLIER_MISMATCH",
+        "affected_record_id":"SITE-SUP-000001-03",
+        "expected_validation_result":"FAIL",
+        "anomaly_description":"Site ID naming structure mismatches parent foreign key assignment (SUP-000100)."
+    }
+]

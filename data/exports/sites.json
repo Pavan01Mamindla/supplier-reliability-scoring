@@ -1,0 +1,2062 @@
+[
+  {
+    "site_id":"SITE-SUP-000001-01",
+    "supplier_id":"SUP-000001",
+    "site_name":"Binh Duong Manufacturing Facility 1",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":9273,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000001-02",
+    "supplier_id":"SUP-000001",
+    "site_name":"Hai Phong Manufacturing Facility 2",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":3795,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000001-03",
+    "supplier_id":"SUP-000100",
+    "site_name":"Binh Duong Manufacturing Facility 3",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":3296,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000002-01",
+    "supplier_id":"SUP-000002",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":9718,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000002-02",
+    "supplier_id":"SUP-000002",
+    "site_name":"Bengaluru Manufacturing Facility 2",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":3126,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000003-01",
+    "supplier_id":"SUP-000003",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":7832,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000003-02",
+    "supplier_id":"SUP-000003",
+    "site_name":"Monterrey Manufacturing Facility 2",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":2934,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000004-01",
+    "supplier_id":"SUP-000004",
+    "site_name":"Suwon Manufacturing Facility 1",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":9646,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000005-01",
+    "supplier_id":"SUP-000005",
+    "site_name":"Nagoya Manufacturing Facility 1",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":6377,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000005-02",
+    "supplier_id":"SUP-000005",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":7236,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000006-01",
+    "supplier_id":"SUP-000006",
+    "site_name":"Tainan Manufacturing Facility 1",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":7843,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000006-02",
+    "supplier_id":"SUP-000006",
+    "site_name":"Hsinchu Manufacturing Facility 2",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":4029,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000006-03",
+    "supplier_id":"SUP-000006",
+    "site_name":"Hsinchu Manufacturing Facility 3",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":9983,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000007-01",
+    "supplier_id":"SUP-000007",
+    "site_name":"Tainan Manufacturing Facility 1",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":8214,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000007-02",
+    "supplier_id":"SUP-000007",
+    "site_name":"Taichung Manufacturing Facility 2",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":5649,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000007-03",
+    "supplier_id":"SUP-000007",
+    "site_name":"Hsinchu Manufacturing Facility 3",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":2734,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000008-01",
+    "supplier_id":"SUP-000008",
+    "site_name":"Chennai Manufacturing Facility 1",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":5493,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000008-02",
+    "supplier_id":"SUP-000008",
+    "site_name":"Bengaluru Manufacturing Facility 2",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":4045,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000009-01",
+    "supplier_id":"SUP-000009",
+    "site_name":"Chicago Manufacturing Facility 1",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":9418,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000009-02",
+    "supplier_id":"SUP-000009",
+    "site_name":"Austin Manufacturing Facility 2",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":5826,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000009-03",
+    "supplier_id":"SUP-000009",
+    "site_name":"San Jose Manufacturing Facility 3",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":9312,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000010-01",
+    "supplier_id":"SUP-000010",
+    "site_name":"Hai Phong Manufacturing Facility 1",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":4097,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000011-01",
+    "supplier_id":"SUP-000011",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":8273,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000011-02",
+    "supplier_id":"SUP-000011",
+    "site_name":"Guadalajara Manufacturing Facility 2",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":7313,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000011-03",
+    "supplier_id":"SUP-000011",
+    "site_name":"Tijuana Manufacturing Facility 3",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":7772,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000012-01",
+    "supplier_id":"SUP-000012",
+    "site_name":"San Jose Manufacturing Facility 1",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":7947,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000012-02",
+    "supplier_id":"SUP-000012",
+    "site_name":"San Jose Manufacturing Facility 2",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":3328,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000013-01",
+    "supplier_id":"SUP-000013",
+    "site_name":"Suwon Manufacturing Facility 1",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":8602,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000014-01",
+    "supplier_id":"SUP-000014",
+    "site_name":"Hamburg Manufacturing Facility 1",
+    "city":"Hamburg",
+    "country":"Germany",
+    "capacity_units_per_month":6211,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000015-01",
+    "supplier_id":"SUP-000015",
+    "site_name":"Chennai Manufacturing Facility 1",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":2047,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000015-02",
+    "supplier_id":"SUP-000015",
+    "site_name":"Pune Manufacturing Facility 2",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":5906,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000015-03",
+    "supplier_id":"SUP-000015",
+    "site_name":"Chennai Manufacturing Facility 3",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":6511,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000016-01",
+    "supplier_id":"SUP-000016",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":8313,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000016-02",
+    "supplier_id":"SUP-000016",
+    "site_name":"Guadalajara Manufacturing Facility 2",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":7164,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000016-03",
+    "supplier_id":"SUP-000016",
+    "site_name":"Guadalajara Manufacturing Facility 3",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":2070,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000017-01",
+    "supplier_id":"SUP-000017",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":6716,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000017-02",
+    "supplier_id":"SUP-000017",
+    "site_name":"Pune Manufacturing Facility 2",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":5043,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000018-01",
+    "supplier_id":"SUP-000018",
+    "site_name":"Hai Phong Manufacturing Facility 1",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":9794,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000018-02",
+    "supplier_id":"SUP-000018",
+    "site_name":"Da Nang Manufacturing Facility 2",
+    "city":"Da Nang",
+    "country":"Vietnam",
+    "capacity_units_per_month":5651,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000018-03",
+    "supplier_id":"SUP-000018",
+    "site_name":"Da Nang Manufacturing Facility 3",
+    "city":"Da Nang",
+    "country":"Vietnam",
+    "capacity_units_per_month":8203,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000019-01",
+    "supplier_id":"SUP-000019",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":9104,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000019-02",
+    "supplier_id":"SUP-000019",
+    "site_name":"Busan Manufacturing Facility 2",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":5723,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000020-01",
+    "supplier_id":"SUP-000020",
+    "site_name":"Binh Duong Manufacturing Facility 1",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":9906,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000020-02",
+    "supplier_id":"SUP-000020",
+    "site_name":"Hai Phong Manufacturing Facility 2",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":7977,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000021-01",
+    "supplier_id":"SUP-000021",
+    "site_name":"Hai Phong Manufacturing Facility 1",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":5431,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000022-01",
+    "supplier_id":"SUP-000022",
+    "site_name":"Incheon Manufacturing Facility 1",
+    "city":"Incheon",
+    "country":"South Korea",
+    "capacity_units_per_month":5030,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000022-02",
+    "supplier_id":"SUP-000022",
+    "site_name":"Incheon Manufacturing Facility 2",
+    "city":"Incheon",
+    "country":"South Korea",
+    "capacity_units_per_month":3847,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000023-01",
+    "supplier_id":"SUP-000023",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":4380,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000023-02",
+    "supplier_id":"SUP-000023",
+    "site_name":"Monterrey Manufacturing Facility 2",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":4075,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000023-03",
+    "supplier_id":"SUP-000023",
+    "site_name":"Guadalajara Manufacturing Facility 3",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":2300,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000024-01",
+    "supplier_id":"SUP-000024",
+    "site_name":"Nagoya Manufacturing Facility 1",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":7295,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000025-01",
+    "supplier_id":"SUP-000025",
+    "site_name":"Pune Manufacturing Facility 1",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":7485,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000025-02",
+    "supplier_id":"SUP-000025",
+    "site_name":"Chennai Manufacturing Facility 2",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":7960,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000026-01",
+    "supplier_id":"SUP-000026",
+    "site_name":"Da Nang Manufacturing Facility 1",
+    "city":"Da Nang",
+    "country":"Vietnam",
+    "capacity_units_per_month":2436,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000027-01",
+    "supplier_id":"SUP-000027",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":5716,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000027-02",
+    "supplier_id":"SUP-000027",
+    "site_name":"Monterrey Manufacturing Facility 2",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":9634,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000028-01",
+    "supplier_id":"SUP-000028",
+    "site_name":"Munich Manufacturing Facility 1",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":5403,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000028-02",
+    "supplier_id":"SUP-000028",
+    "site_name":"Munich Manufacturing Facility 2",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":4617,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000029-01",
+    "supplier_id":"SUP-000029",
+    "site_name":"Monterrey Manufacturing Facility 1",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":9691,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000030-01",
+    "supplier_id":"SUP-000030",
+    "site_name":"Chennai Manufacturing Facility 1",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":8082,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000030-02",
+    "supplier_id":"SUP-000030",
+    "site_name":"Chennai Manufacturing Facility 2",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":6125,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000030-03",
+    "supplier_id":"SUP-000030",
+    "site_name":"Pune Manufacturing Facility 3",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":5515,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000031-01",
+    "supplier_id":"SUP-000031",
+    "site_name":"Pune Manufacturing Facility 1",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":9882,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000031-02",
+    "supplier_id":"SUP-000031",
+    "site_name":"Pune Manufacturing Facility 2",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":4049,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000032-01",
+    "supplier_id":"SUP-000032",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":5958,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000033-01",
+    "supplier_id":"SUP-000033",
+    "site_name":"Chennai Manufacturing Facility 1",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":2944,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000033-02",
+    "supplier_id":"SUP-000033",
+    "site_name":"Pune Manufacturing Facility 2",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":8924,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000034-01",
+    "supplier_id":"SUP-000034",
+    "site_name":"Binh Duong Manufacturing Facility 1",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":6997,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000035-01",
+    "supplier_id":"SUP-000035",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":2962,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000036-01",
+    "supplier_id":"SUP-000036",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":6414,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000036-02",
+    "supplier_id":"SUP-000036",
+    "site_name":"Osaka Manufacturing Facility 2",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":3364,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000036-03",
+    "supplier_id":"SUP-000036",
+    "site_name":"Nagoya Manufacturing Facility 3",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":9601,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000037-01",
+    "supplier_id":"SUP-000037",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":8545,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000037-02",
+    "supplier_id":"SUP-000037",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":3277,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000037-03",
+    "supplier_id":"SUP-000037",
+    "site_name":"Osaka Manufacturing Facility 3",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":3637,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000038-01",
+    "supplier_id":"SUP-000038",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":9096,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000039-01",
+    "supplier_id":"SUP-000039",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":2553,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000039-02",
+    "supplier_id":"SUP-000039",
+    "site_name":"Guadalajara Manufacturing Facility 2",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":7148,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000040-01",
+    "supplier_id":"SUP-000040",
+    "site_name":"Osaka Manufacturing Facility 1",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":3832,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000040-02",
+    "supplier_id":"SUP-000040",
+    "site_name":"Tokyo Manufacturing Facility 2",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":6114,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000040-03",
+    "supplier_id":"SUP-000040",
+    "site_name":"Nagoya Manufacturing Facility 3",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":9777,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000041-01",
+    "supplier_id":"SUP-000041",
+    "site_name":"Austin Manufacturing Facility 1",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":4491,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000041-02",
+    "supplier_id":"SUP-000041",
+    "site_name":"San Jose Manufacturing Facility 2",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":9006,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000042-01",
+    "supplier_id":"SUP-000042",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":8820,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000042-02",
+    "supplier_id":"SUP-000042",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":9748,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000043-01",
+    "supplier_id":"SUP-000043",
+    "site_name":"Austin Manufacturing Facility 1",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":3965,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000043-02",
+    "supplier_id":"SUP-000043",
+    "site_name":"Austin Manufacturing Facility 2",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":4006,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000043-03",
+    "supplier_id":"SUP-000043",
+    "site_name":"San Jose Manufacturing Facility 3",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":5441,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000044-01",
+    "supplier_id":"SUP-000044",
+    "site_name":"Osaka Manufacturing Facility 1",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":6709,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000044-02",
+    "supplier_id":"SUP-000044",
+    "site_name":"Osaka Manufacturing Facility 2",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":6330,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000045-01",
+    "supplier_id":"SUP-000045",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":4586,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000046-01",
+    "supplier_id":"SUP-000046",
+    "site_name":"Chicago Manufacturing Facility 1",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":6630,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000046-02",
+    "supplier_id":"SUP-000046",
+    "site_name":"Chicago Manufacturing Facility 2",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":6892,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000046-03",
+    "supplier_id":"SUP-000046",
+    "site_name":"Austin Manufacturing Facility 3",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":3012,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000047-01",
+    "supplier_id":"SUP-000047",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":2438,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000047-02",
+    "supplier_id":"SUP-000047",
+    "site_name":"Hsinchu Manufacturing Facility 2",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":6075,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000047-03",
+    "supplier_id":"SUP-000047",
+    "site_name":"Tainan Manufacturing Facility 3",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":4084,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000048-01",
+    "supplier_id":"SUP-000048",
+    "site_name":"Nagoya Manufacturing Facility 1",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":2438,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000048-02",
+    "supplier_id":"SUP-000048",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":3587,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000048-03",
+    "supplier_id":"SUP-000048",
+    "site_name":"Osaka Manufacturing Facility 3",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":8331,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000049-01",
+    "supplier_id":"SUP-000049",
+    "site_name":"Suwon Manufacturing Facility 1",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":6434,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000049-02",
+    "supplier_id":"SUP-000049",
+    "site_name":"Suwon Manufacturing Facility 2",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":3185,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000049-03",
+    "supplier_id":"SUP-000049",
+    "site_name":"Busan Manufacturing Facility 3",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":6591,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000050-01",
+    "supplier_id":"SUP-000050",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":2293,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000050-02",
+    "supplier_id":"SUP-000050",
+    "site_name":"Guadalajara Manufacturing Facility 2",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":9556,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000051-01",
+    "supplier_id":"SUP-000051",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":3614,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000051-02",
+    "supplier_id":"SUP-000051",
+    "site_name":"Tainan Manufacturing Facility 2",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":7259,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000051-03",
+    "supplier_id":"SUP-000051",
+    "site_name":"Taichung Manufacturing Facility 3",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":3010,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000052-01",
+    "supplier_id":"SUP-000052",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":6854,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000052-02",
+    "supplier_id":"SUP-000052",
+    "site_name":"Busan Manufacturing Facility 2",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":2512,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000052-03",
+    "supplier_id":"SUP-000052",
+    "site_name":"Suwon Manufacturing Facility 3",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":2292,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000053-01",
+    "supplier_id":"SUP-000053",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":5714,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000053-02",
+    "supplier_id":"SUP-000053",
+    "site_name":"Tijuana Manufacturing Facility 2",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":9538,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000053-03",
+    "supplier_id":"SUP-000053",
+    "site_name":"Tijuana Manufacturing Facility 3",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":2372,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000054-01",
+    "supplier_id":"SUP-000054",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":3159,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000054-02",
+    "supplier_id":"SUP-000054",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":8163,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000054-03",
+    "supplier_id":"SUP-000054",
+    "site_name":"Osaka Manufacturing Facility 3",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":3918,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000055-01",
+    "supplier_id":"SUP-000055",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":5105,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000055-02",
+    "supplier_id":"SUP-000055",
+    "site_name":"Taichung Manufacturing Facility 2",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":9976,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000056-01",
+    "supplier_id":"SUP-000056",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":5708,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000056-02",
+    "supplier_id":"SUP-000056",
+    "site_name":"Chennai Manufacturing Facility 2",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":6285,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000057-01",
+    "supplier_id":"SUP-000057",
+    "site_name":"Hai Phong Manufacturing Facility 1",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":8814,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000057-02",
+    "supplier_id":"SUP-000057",
+    "site_name":"Hai Phong Manufacturing Facility 2",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":3206,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000057-03",
+    "supplier_id":"SUP-000057",
+    "site_name":"Binh Duong Manufacturing Facility 3",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":9506,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000058-01",
+    "supplier_id":"SUP-000058",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":2474,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000059-01",
+    "supplier_id":"SUP-000059",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":2238,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000059-02",
+    "supplier_id":"SUP-000059",
+    "site_name":"Chennai Manufacturing Facility 2",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":6985,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000059-03",
+    "supplier_id":"SUP-000059",
+    "site_name":"Pune Manufacturing Facility 3",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":4124,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000060-01",
+    "supplier_id":"SUP-000060",
+    "site_name":"Incheon Manufacturing Facility 1",
+    "city":"Incheon",
+    "country":"South Korea",
+    "capacity_units_per_month":6741,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000061-01",
+    "supplier_id":"SUP-000061",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":7285,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000062-01",
+    "supplier_id":"SUP-000062",
+    "site_name":"Munich Manufacturing Facility 1",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":6147,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000063-01",
+    "supplier_id":"SUP-000063",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":5270,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000063-02",
+    "supplier_id":"SUP-000063",
+    "site_name":"Busan Manufacturing Facility 2",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":2298,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000063-03",
+    "supplier_id":"SUP-000063",
+    "site_name":"Busan Manufacturing Facility 3",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":6400,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000064-01",
+    "supplier_id":"SUP-000064",
+    "site_name":"Stuttgart Manufacturing Facility 1",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "capacity_units_per_month":2171,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000065-01",
+    "supplier_id":"SUP-000065",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":2090,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000066-01",
+    "supplier_id":"SUP-000066",
+    "site_name":"Suwon Manufacturing Facility 1",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":3280,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000066-02",
+    "supplier_id":"SUP-000066",
+    "site_name":"Busan Manufacturing Facility 2",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":5798,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000066-03",
+    "supplier_id":"SUP-000066",
+    "site_name":"Suwon Manufacturing Facility 3",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":5616,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000067-01",
+    "supplier_id":"SUP-000067",
+    "site_name":"Pune Manufacturing Facility 1",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":9241,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000067-02",
+    "supplier_id":"SUP-000067",
+    "site_name":"Chennai Manufacturing Facility 2",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":2385,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000067-03",
+    "supplier_id":"SUP-000067",
+    "site_name":"Chennai Manufacturing Facility 3",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":9557,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000068-01",
+    "supplier_id":"SUP-000068",
+    "site_name":"Hamburg Manufacturing Facility 1",
+    "city":"Hamburg",
+    "country":"Germany",
+    "capacity_units_per_month":9077,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000068-02",
+    "supplier_id":"SUP-000068",
+    "site_name":"Munich Manufacturing Facility 2",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":7764,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000068-03",
+    "supplier_id":"SUP-000068",
+    "site_name":"Munich Manufacturing Facility 3",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":3955,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000069-01",
+    "supplier_id":"SUP-000069",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":8883,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000069-02",
+    "supplier_id":"SUP-000069",
+    "site_name":"Hsinchu Manufacturing Facility 2",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":7234,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000069-03",
+    "supplier_id":"SUP-000069",
+    "site_name":"Hsinchu Manufacturing Facility 3",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":8663,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000070-01",
+    "supplier_id":"SUP-000070",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":3388,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000070-02",
+    "supplier_id":"SUP-000070",
+    "site_name":"Bengaluru Manufacturing Facility 2",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":9847,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000071-01",
+    "supplier_id":"SUP-000071",
+    "site_name":"Chicago Manufacturing Facility 1",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":9914,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000071-02",
+    "supplier_id":"SUP-000071",
+    "site_name":"San Jose Manufacturing Facility 2",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":4909,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000071-03",
+    "supplier_id":"SUP-000071",
+    "site_name":"Austin Manufacturing Facility 3",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":8729,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000072-01",
+    "supplier_id":"SUP-000072",
+    "site_name":"Busan Manufacturing Facility 1",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":6097,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000072-02",
+    "supplier_id":"SUP-000072",
+    "site_name":"Suwon Manufacturing Facility 2",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":6302,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000073-01",
+    "supplier_id":"SUP-000073",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":5151,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000074-01",
+    "supplier_id":"SUP-000074",
+    "site_name":"Suwon Manufacturing Facility 1",
+    "city":"Suwon",
+    "country":"South Korea",
+    "capacity_units_per_month":6350,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000074-02",
+    "supplier_id":"SUP-000074",
+    "site_name":"Incheon Manufacturing Facility 2",
+    "city":"Incheon",
+    "country":"South Korea",
+    "capacity_units_per_month":6821,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000074-03",
+    "supplier_id":"SUP-000074",
+    "site_name":"Busan Manufacturing Facility 3",
+    "city":"Busan",
+    "country":"South Korea",
+    "capacity_units_per_month":5476,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000075-01",
+    "supplier_id":"SUP-000075",
+    "site_name":"Da Nang Manufacturing Facility 1",
+    "city":"Da Nang",
+    "country":"Vietnam",
+    "capacity_units_per_month":9486,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000076-01",
+    "supplier_id":"SUP-000076",
+    "site_name":"Tijuana Manufacturing Facility 1",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":3836,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000077-01",
+    "supplier_id":"SUP-000077",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":2723,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000077-02",
+    "supplier_id":"SUP-000077",
+    "site_name":"Tainan Manufacturing Facility 2",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":9828,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000077-03",
+    "supplier_id":"SUP-000077",
+    "site_name":"Hsinchu Manufacturing Facility 3",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":3240,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000078-01",
+    "supplier_id":"SUP-000078",
+    "site_name":"Chennai Manufacturing Facility 1",
+    "city":"Chennai",
+    "country":"India",
+    "capacity_units_per_month":7908,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000078-02",
+    "supplier_id":"SUP-000078",
+    "site_name":"Pune Manufacturing Facility 2",
+    "city":"Pune",
+    "country":"India",
+    "capacity_units_per_month":3642,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000079-01",
+    "supplier_id":"SUP-000079",
+    "site_name":"Binh Duong Manufacturing Facility 1",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":3242,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000080-01",
+    "supplier_id":"SUP-000080",
+    "site_name":"Stuttgart Manufacturing Facility 1",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "capacity_units_per_month":4672,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000080-02",
+    "supplier_id":"SUP-000080",
+    "site_name":"Hamburg Manufacturing Facility 2",
+    "city":"Hamburg",
+    "country":"Germany",
+    "capacity_units_per_month":9943,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000080-03",
+    "supplier_id":"SUP-000080",
+    "site_name":"Hamburg Manufacturing Facility 3",
+    "city":"Hamburg",
+    "country":"Germany",
+    "capacity_units_per_month":2474,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000081-01",
+    "supplier_id":"SUP-000081",
+    "site_name":"Bengaluru Manufacturing Facility 1",
+    "city":"Bengaluru",
+    "country":"India",
+    "capacity_units_per_month":6324,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000082-01",
+    "supplier_id":"SUP-000082",
+    "site_name":"Munich Manufacturing Facility 1",
+    "city":"Munich",
+    "country":"Germany",
+    "capacity_units_per_month":7394,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000083-01",
+    "supplier_id":"SUP-000083",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":4802,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000083-02",
+    "supplier_id":"SUP-000083",
+    "site_name":"Tijuana Manufacturing Facility 2",
+    "city":"Tijuana",
+    "country":"Mexico",
+    "capacity_units_per_month":8741,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000084-01",
+    "supplier_id":"SUP-000084",
+    "site_name":"Chicago Manufacturing Facility 1",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":2576,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000084-02",
+    "supplier_id":"SUP-000084",
+    "site_name":"San Jose Manufacturing Facility 2",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":5682,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000085-01",
+    "supplier_id":"SUP-000085",
+    "site_name":"Monterrey Manufacturing Facility 1",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":8864,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000086-01",
+    "supplier_id":"SUP-000086",
+    "site_name":"Stuttgart Manufacturing Facility 1",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "capacity_units_per_month":3280,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000086-02",
+    "supplier_id":"SUP-000086",
+    "site_name":"Hamburg Manufacturing Facility 2",
+    "city":"Hamburg",
+    "country":"Germany",
+    "capacity_units_per_month":8499,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000087-01",
+    "supplier_id":"SUP-000087",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":5753,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000087-02",
+    "supplier_id":"SUP-000087",
+    "site_name":"Tainan Manufacturing Facility 2",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":5806,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000088-01",
+    "supplier_id":"SUP-000088",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":7143,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000089-01",
+    "supplier_id":"SUP-000089",
+    "site_name":"Monterrey Manufacturing Facility 1",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":7726,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000090-01",
+    "supplier_id":"SUP-000090",
+    "site_name":"Taichung Manufacturing Facility 1",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":7987,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000091-01",
+    "supplier_id":"SUP-000091",
+    "site_name":"Stuttgart Manufacturing Facility 1",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "capacity_units_per_month":5085,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000092-01",
+    "supplier_id":"SUP-000092",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":8440,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000092-02",
+    "supplier_id":"SUP-000092",
+    "site_name":"Tokyo Manufacturing Facility 2",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":6140,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000092-03",
+    "supplier_id":"SUP-000092",
+    "site_name":"Nagoya Manufacturing Facility 3",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":8959,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000093-01",
+    "supplier_id":"SUP-000093",
+    "site_name":"Hai Phong Manufacturing Facility 1",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":4637,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000093-02",
+    "supplier_id":"SUP-000093",
+    "site_name":"Hai Phong Manufacturing Facility 2",
+    "city":"Hai Phong",
+    "country":"Vietnam",
+    "capacity_units_per_month":4468,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000094-01",
+    "supplier_id":"SUP-000094",
+    "site_name":"Austin Manufacturing Facility 1",
+    "city":"Austin",
+    "country":"USA",
+    "capacity_units_per_month":8918,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000094-02",
+    "supplier_id":"SUP-000094",
+    "site_name":"Chicago Manufacturing Facility 2",
+    "city":"Chicago",
+    "country":"USA",
+    "capacity_units_per_month":6652,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000094-03",
+    "supplier_id":"SUP-000094",
+    "site_name":"San Jose Manufacturing Facility 3",
+    "city":"San Jose",
+    "country":"USA",
+    "capacity_units_per_month":9641,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000095-01",
+    "supplier_id":"SUP-000095",
+    "site_name":"Guadalajara Manufacturing Facility 1",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":5665,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000095-02",
+    "supplier_id":"SUP-000095",
+    "site_name":"Guadalajara Manufacturing Facility 2",
+    "city":"Guadalajara",
+    "country":"Mexico",
+    "capacity_units_per_month":8101,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000095-03",
+    "supplier_id":"SUP-000095",
+    "site_name":"Monterrey Manufacturing Facility 3",
+    "city":"Monterrey",
+    "country":"Mexico",
+    "capacity_units_per_month":5310,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000096-01",
+    "supplier_id":"SUP-000096",
+    "site_name":"Da Nang Manufacturing Facility 1",
+    "city":"Da Nang",
+    "country":"Vietnam",
+    "capacity_units_per_month":2465,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000096-02",
+    "supplier_id":"SUP-000096",
+    "site_name":"Binh Duong Manufacturing Facility 2",
+    "city":"Binh Duong",
+    "country":"Vietnam",
+    "capacity_units_per_month":2409,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000097-01",
+    "supplier_id":"SUP-000097",
+    "site_name":"Hsinchu Manufacturing Facility 1",
+    "city":"Hsinchu",
+    "country":"Taiwan",
+    "capacity_units_per_month":2632,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000097-02",
+    "supplier_id":"SUP-000097",
+    "site_name":"Taichung Manufacturing Facility 2",
+    "city":"Taichung",
+    "country":"Taiwan",
+    "capacity_units_per_month":6211,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000097-03",
+    "supplier_id":"SUP-000097",
+    "site_name":"Tainan Manufacturing Facility 3",
+    "city":"Tainan",
+    "country":"Taiwan",
+    "capacity_units_per_month":7247,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000098-01",
+    "supplier_id":"SUP-000098",
+    "site_name":"Stuttgart Manufacturing Facility 1",
+    "city":"Stuttgart",
+    "country":"Germany",
+    "capacity_units_per_month":5284,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000099-01",
+    "supplier_id":"SUP-000099",
+    "site_name":"Tokyo Manufacturing Facility 1",
+    "city":"Tokyo",
+    "country":"Japan",
+    "capacity_units_per_month":5972,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000099-02",
+    "supplier_id":"SUP-000099",
+    "site_name":"Osaka Manufacturing Facility 2",
+    "city":"Osaka",
+    "country":"Japan",
+    "capacity_units_per_month":4732,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000100-01",
+    "supplier_id":"SUP-000100",
+    "site_name":"Nagoya Manufacturing Facility 1",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":8960,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  },
+  {
+    "site_id":"SITE-SUP-000100-02",
+    "supplier_id":"SUP-000100",
+    "site_name":"Nagoya Manufacturing Facility 2",
+    "city":"Nagoya",
+    "country":"Japan",
+    "capacity_units_per_month":7844,
+    "is_active":1,
+    "created_at":"2025-01-01 00:00:00"
+  }
+]
